@@ -26,3 +26,7 @@ venv/
 *.egg-info/
 dist/
 build/
+audio/Botswana_2007_Audio.mp3
+audio/Botswana_2007_Audio.wav
+audio/Botswana_2024_Audio.mp3
+audio/Intro.mp3
