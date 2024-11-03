@@ -32,3 +32,4 @@ audio/Botswana_2024_Audio.mp3
 audio/*.*
 data/*.wav
 data/Testing/*.*
+model/*.*
