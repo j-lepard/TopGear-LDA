@@ -53,6 +53,11 @@ Instead, the project will be approached by doing analysis, and then making infer
 ![LDA vis](images/LDAvis_example.png)
 [link to page](outputs\combined_vis.html)
 
+## Next - ToDO!
+
+- [ ] Diarize 2024 episode
+- [ ] Create UMAP visuals
+- [ ] Perform Dynamic Topic Model analysis 
 
 ## Setup ⚙️
 [GITHUB](https://github.com/m-bain/whisperX)
