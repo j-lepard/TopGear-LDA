@@ -1,0 +1,4424 @@
+1
+00:00:00,009 --> 00:00:00,169
+[SPEAKER_02]: <u>Back</u> up to strength, we pressed on, apart from Jeremy being Bill Oddie occasionally.
+
+2
+00:00:00,169 --> 00:00:00,189
+[SPEAKER_02]: Back up to strength, we pressed on, apart from Jeremy being Bill Oddie occasionally.
+
+3
+00:00:00,189 --> 00:00:00,289
+[SPEAKER_02]: Back <u>up</u> to strength, we pressed on, apart from Jeremy being Bill Oddie occasionally.
+
+4
+00:00:00,289 --> 00:00:00,309
+[SPEAKER_02]: Back up to strength, we pressed on, apart from Jeremy being Bill Oddie occasionally.
+
+5
+00:00:00,309 --> 00:00:00,469
+[SPEAKER_02]: Back up <u>to</u> strength, we pressed on, apart from Jeremy being Bill Oddie occasionally.
+
+6
+00:00:00,469 --> 00:00:00,489
+[SPEAKER_02]: Back up to strength, we pressed on, apart from Jeremy being Bill Oddie occasionally.
+
+7
+00:00:00,489 --> 00:00:00,909
+[SPEAKER_02]: Back up to <u>strength,</u> we pressed on, apart from Jeremy being Bill Oddie occasionally.
+
+8
+00:00:00,909 --> 00:00:01,089
+[SPEAKER_02]: Back up to strength, we pressed on, apart from Jeremy being Bill Oddie occasionally.
+
+9
+00:00:01,089 --> 00:00:01,270
+[SPEAKER_02]: Back up to strength, <u>we</u> pressed on, apart from Jeremy being Bill Oddie occasionally.
+
+10
+00:00:01,270 --> 00:00:01,350
+[SPEAKER_02]: Back up to strength, we pressed on, apart from Jeremy being Bill Oddie occasionally.
+
+11
+00:00:01,350 --> 00:00:01,630
+[SPEAKER_02]: Back up to strength, we <u>pressed</u> on, apart from Jeremy being Bill Oddie occasionally.
+
+12
+00:00:01,630 --> 00:00:01,790
+[SPEAKER_02]: Back up to strength, we pressed on, apart from Jeremy being Bill Oddie occasionally.
+
+13
+00:00:01,790 --> 00:00:01,890
+[SPEAKER_02]: Back up to strength, we pressed <u>on,</u> apart from Jeremy being Bill Oddie occasionally.
+
+14
+00:00:01,890 --> 00:00:02,370
+[SPEAKER_02]: Back up to strength, we pressed on, apart from Jeremy being Bill Oddie occasionally.
+
+15
+00:00:02,370 --> 00:00:02,630
+[SPEAKER_02]: Back up to strength, we pressed on, <u>apart</u> from Jeremy being Bill Oddie occasionally.
+
+16
+00:00:02,630 --> 00:00:02,670
+[SPEAKER_02]: Back up to strength, we pressed on, apart from Jeremy being Bill Oddie occasionally.
+
+17
+00:00:02,670 --> 00:00:02,810
+[SPEAKER_02]: Back up to strength, we pressed on, apart <u>from</u> Jeremy being Bill Oddie occasionally.
+
+18
+00:00:02,810 --> 00:00:02,870
+[SPEAKER_02]: Back up to strength, we pressed on, apart from Jeremy being Bill Oddie occasionally.
+
+19
+00:00:02,870 --> 00:00:03,330
+[SPEAKER_02]: Back up to strength, we pressed on, apart from <u>Jeremy</u> being Bill Oddie occasionally.
+
+20
+00:00:03,330 --> 00:00:03,370
+[SPEAKER_02]: Back up to strength, we pressed on, apart from Jeremy being Bill Oddie occasionally.
+
+21
+00:00:03,370 --> 00:00:03,611
+[SPEAKER_02]: Back up to strength, we pressed on, apart from Jeremy <u>being</u> Bill Oddie occasionally.
+
+22
+00:00:03,611 --> 00:00:03,711
+[SPEAKER_02]: Back up to strength, we pressed on, apart from Jeremy being Bill Oddie occasionally.
+
+23
+00:00:03,711 --> 00:00:03,891
+[SPEAKER_02]: Back up to strength, we pressed on, apart from Jeremy being <u>Bill</u> Oddie occasionally.
+
+24
+00:00:03,891 --> 00:00:03,931
+[SPEAKER_02]: Back up to strength, we pressed on, apart from Jeremy being Bill Oddie occasionally.
+
+25
+00:00:03,931 --> 00:00:04,191
+[SPEAKER_02]: Back up to strength, we pressed on, apart from Jeremy being Bill <u>Oddie</u> occasionally.
+
+26
+00:00:04,191 --> 00:00:04,231
+[SPEAKER_02]: Back up to strength, we pressed on, apart from Jeremy being Bill Oddie occasionally.
+
+27
+00:00:04,231 --> 00:00:04,771
+[SPEAKER_02]: Back up to strength, we pressed on, apart from Jeremy being Bill Oddie <u>occasionally.</u>
+
+28
+00:00:05,051 --> 00:00:05,191
+[SPEAKER_00]: <u>This</u> is where flamingos breed out here.
+
+29
+00:00:05,191 --> 00:00:05,231
+[SPEAKER_00]: This is where flamingos breed out here.
+
+30
+00:00:05,231 --> 00:00:05,291
+[SPEAKER_00]: This <u>is</u> where flamingos breed out here.
+
+31
+00:00:05,291 --> 00:00:05,311
+[SPEAKER_00]: This is where flamingos breed out here.
+
+32
+00:00:05,311 --> 00:00:05,491
+[SPEAKER_00]: This is <u>where</u> flamingos breed out here.
+
+33
+00:00:05,491 --> 00:00:05,611
+[SPEAKER_00]: This is where flamingos breed out here.
+
+34
+00:00:05,611 --> 00:00:06,132
+[SPEAKER_00]: This is where <u>flamingos</u> breed out here.
+
+35
+00:00:06,132 --> 00:00:06,232
+[SPEAKER_00]: This is where flamingos breed out here.
+
+36
+00:00:06,232 --> 00:00:06,572
+[SPEAKER_00]: This is where flamingos <u>breed</u> out here.
+
+37
+00:00:06,572 --> 00:00:06,632
+[SPEAKER_00]: This is where flamingos breed out here.
+
+38
+00:00:06,632 --> 00:00:06,752
+[SPEAKER_00]: This is where flamingos breed <u>out</u> here.
+
+39
+00:00:06,752 --> 00:00:06,792
+[SPEAKER_00]: This is where flamingos breed out here.
+
+40
+00:00:06,792 --> 00:00:06,972
+[SPEAKER_00]: This is where flamingos breed out <u>here.</u>
+
+41
+00:00:07,052 --> 00:00:07,152
+[SPEAKER_00]: <u>So</u> that's breeding, is it?
+
+42
+00:00:07,152 --> 00:00:07,172
+[SPEAKER_00]: So that's breeding, is it?
+
+43
+00:00:07,172 --> 00:00:07,312
+[SPEAKER_00]: So <u>that's</u> breeding, is it?
+
+44
+00:00:07,312 --> 00:00:07,352
+[SPEAKER_00]: So that's breeding, is it?
+
+45
+00:00:07,352 --> 00:00:07,672
+[SPEAKER_00]: So that's <u>breeding,</u> is it?
+
+46
+00:00:07,672 --> 00:00:07,732
+[SPEAKER_00]: So that's breeding, is it?
+
+47
+00:00:07,732 --> 00:00:07,812
+[SPEAKER_00]: So that's breeding, <u>is</u> it?
+
+48
+00:00:07,812 --> 00:00:07,872
+[SPEAKER_00]: So that's breeding, is it?
+
+49
+00:00:07,872 --> 00:00:07,932
+[SPEAKER_00]: So that's breeding, is <u>it?</u>
+
+50
+00:00:09,553 --> 00:00:09,693
+[SPEAKER_00]: <u>It's</u> a fossil.
+
+51
+00:00:09,693 --> 00:00:09,733
+[SPEAKER_00]: It's a fossil.
+
+52
+00:00:09,733 --> 00:00:09,773
+[SPEAKER_00]: It's <u>a</u> fossil.
+
+53
+00:00:09,773 --> 00:00:09,833
+[SPEAKER_00]: It's a fossil.
+
+54
+00:00:09,833 --> 00:00:10,233
+[SPEAKER_00]: It's a <u>fossil.</u>
+
+55
+00:00:10,614 --> 00:00:10,734
+[SPEAKER_00]: <u>It's</u> not a fossil.
+
+56
+00:00:10,734 --> 00:00:10,794
+[SPEAKER_00]: It's not a fossil.
+
+57
+00:00:10,794 --> 00:00:10,914
+[SPEAKER_00]: It's <u>not</u> a fossil.
+
+58
+00:00:10,914 --> 00:00:10,954
+[SPEAKER_00]: It's not a fossil.
+
+59
+00:00:10,954 --> 00:00:10,994
+[SPEAKER_00]: It's not <u>a</u> fossil.
+
+60
+00:00:10,994 --> 00:00:11,034
+[SPEAKER_00]: It's not a fossil.
+
+61
+00:00:11,034 --> 00:00:11,274
+[SPEAKER_00]: It's not a <u>fossil.</u>
+
+62
+00:00:11,314 --> 00:00:11,374
+[SPEAKER_00]: <u>It</u> only died about two years ago.
+
+63
+00:00:11,374 --> 00:00:11,394
+[SPEAKER_00]: It only died about two years ago.
+
+64
+00:00:11,394 --> 00:00:11,554
+[SPEAKER_00]: It <u>only</u> died about two years ago.
+
+65
+00:00:11,554 --> 00:00:11,614
+[SPEAKER_00]: It only died about two years ago.
+
+66
+00:00:11,614 --> 00:00:11,834
+[SPEAKER_00]: It only <u>died</u> about two years ago.
+
+67
+00:00:11,834 --> 00:00:11,874
+[SPEAKER_00]: It only died about two years ago.
+
+68
+00:00:11,874 --> 00:00:12,114
+[SPEAKER_00]: It only died <u>about</u> two years ago.
+
+69
+00:00:12,114 --> 00:00:12,314
+[SPEAKER_00]: It only died about two years ago.
+
+70
+00:00:12,314 --> 00:00:12,454
+[SPEAKER_00]: It only died about <u>two</u> years ago.
+
+71
+00:00:12,454 --> 00:00:12,494
+[SPEAKER_00]: It only died about two years ago.
+
+72
+00:00:12,494 --> 00:00:12,694
+[SPEAKER_00]: It only died about two <u>years</u> ago.
+
+73
+00:00:12,694 --> 00:00:12,734
+[SPEAKER_00]: It only died about two years ago.
+
+74
+00:00:12,734 --> 00:00:12,895
+[SPEAKER_00]: It only died about two years <u>ago.</u>
+
+75
+00:00:12,915 --> 00:00:12,935
+[SPEAKER_00]: <u>I</u> was talking about you.
+
+76
+00:00:12,935 --> 00:00:13,195
+[SPEAKER_00]: I was talking about you.
+
+77
+00:00:13,195 --> 00:00:13,275
+[SPEAKER_00]: I <u>was</u> talking about you.
+
+78
+00:00:13,275 --> 00:00:13,315
+[SPEAKER_00]: I was talking about you.
+
+79
+00:00:13,315 --> 00:00:13,535
+[SPEAKER_00]: I was <u>talking</u> about you.
+
+80
+00:00:13,535 --> 00:00:13,575
+[SPEAKER_00]: I was talking about you.
+
+81
+00:00:13,575 --> 00:00:13,755
+[SPEAKER_00]: I was talking <u>about</u> you.
+
+82
+00:00:13,755 --> 00:00:13,815
+[SPEAKER_00]: I was talking about you.
+
+83
+00:00:13,815 --> 00:00:14,015
+[SPEAKER_00]: I was talking about <u>you.</u>
+
+84
+00:00:14,235 --> 00:00:14,335
+[SPEAKER_00]: <u>It's</u> an ex-flamingo.
+
+85
+00:00:14,335 --> 00:00:14,375
+[SPEAKER_00]: It's an ex-flamingo.
+
+86
+00:00:14,375 --> 00:00:14,435
+[SPEAKER_00]: It's <u>an</u> ex-flamingo.
+
+87
+00:00:14,435 --> 00:00:14,515
+[SPEAKER_00]: It's an ex-flamingo.
+
+88
+00:00:14,515 --> 00:00:15,156
+[SPEAKER_00]: It's an <u>ex-flamingo.</u>
+
+89
+00:00:15,216 --> 00:00:15,496
+[SPEAKER_00]: <u>Hey,</u> no, look.
+
+90
+00:00:15,496 --> 00:00:15,576
+[SPEAKER_00]: Hey, no, look.
+
+91
+00:00:15,576 --> 00:00:15,776
+[SPEAKER_00]: Hey, <u>no,</u> look.
+
+92
+00:00:15,776 --> 00:00:15,836
+[SPEAKER_00]: Hey, no, look.
+
+93
+00:00:15,836 --> 00:00:16,056
+[SPEAKER_00]: Hey, no, <u>look.</u>
+
+94
+00:00:16,296 --> 00:00:16,576
+[SPEAKER_00]: <u>What</u> now?
+
+95
+00:00:16,576 --> 00:00:16,696
+[SPEAKER_00]: What now?
+
+96
+00:00:16,696 --> 00:00:17,136
+[SPEAKER_00]: What <u>now?</u>
+
+97
+00:00:17,877 --> 00:00:17,937
+[SPEAKER_00]: <u>I</u> know what created this.
+
+98
+00:00:17,937 --> 00:00:17,977
+[SPEAKER_00]: I know what created this.
+
+99
+00:00:17,977 --> 00:00:18,177
+[SPEAKER_00]: I <u>know</u> what created this.
+
+100
+00:00:18,177 --> 00:00:18,277
+[SPEAKER_00]: I know what created this.
+
+101
+00:00:18,277 --> 00:00:18,437
+[SPEAKER_00]: I know <u>what</u> created this.
+
+102
+00:00:18,437 --> 00:00:18,517
+[SPEAKER_00]: I know what created this.
+
+103
+00:00:18,517 --> 00:00:19,077
+[SPEAKER_00]: I know what <u>created</u> this.
+
+104
+00:00:19,077 --> 00:00:19,177
+[SPEAKER_00]: I know what created this.
+
+105
+00:00:19,177 --> 00:00:19,457
+[SPEAKER_00]: I know what created <u>this.</u>
+
+106
+00:00:20,158 --> 00:00:20,638
+[SPEAKER_00]: <u>Ostrich.</u>
+
+107
+00:00:20,878 --> 00:00:21,678
+[SPEAKER_00]: <u>Yes!</u>
+
+108
+00:00:22,059 --> 00:00:22,179
+[SPEAKER_00]: <u>Its</u> legs are miles apart.
+
+109
+00:00:22,179 --> 00:00:22,239
+[SPEAKER_00]: Its legs are miles apart.
+
+110
+00:00:22,239 --> 00:00:22,479
+[SPEAKER_00]: Its <u>legs</u> are miles apart.
+
+111
+00:00:22,479 --> 00:00:22,559
+[SPEAKER_00]: Its legs are miles apart.
+
+112
+00:00:22,559 --> 00:00:22,639
+[SPEAKER_00]: Its legs <u>are</u> miles apart.
+
+113
+00:00:22,639 --> 00:00:22,739
+[SPEAKER_00]: Its legs are miles apart.
+
+114
+00:00:22,739 --> 00:00:23,079
+[SPEAKER_00]: Its legs are <u>miles</u> apart.
+
+115
+00:00:23,079 --> 00:00:23,179
+[SPEAKER_00]: Its legs are miles apart.
+
+116
+00:00:23,179 --> 00:00:23,479
+[SPEAKER_00]: Its legs are miles <u>apart.</u>
+
+117
+00:00:23,499 --> 00:00:23,739
+[SPEAKER_00]: <u>That's</u> exactly how it was walking.
+
+118
+00:00:23,739 --> 00:00:23,819
+[SPEAKER_00]: That's exactly how it was walking.
+
+119
+00:00:23,819 --> 00:00:24,219
+[SPEAKER_00]: That's <u>exactly</u> how it was walking.
+
+120
+00:00:24,219 --> 00:00:24,279
+[SPEAKER_00]: That's exactly how it was walking.
+
+121
+00:00:24,279 --> 00:00:24,380
+[SPEAKER_00]: That's exactly <u>how</u> it was walking.
+
+122
+00:00:24,380 --> 00:00:24,440
+[SPEAKER_00]: That's exactly how it was walking.
+
+123
+00:00:24,440 --> 00:00:24,480
+[SPEAKER_00]: That's exactly how <u>it</u> was walking.
+
+124
+00:00:24,480 --> 00:00:24,520
+[SPEAKER_00]: That's exactly how it was walking.
+
+125
+00:00:24,520 --> 00:00:24,620
+[SPEAKER_00]: That's exactly how it <u>was</u> walking.
+
+126
+00:00:24,620 --> 00:00:24,680
+[SPEAKER_00]: That's exactly how it was walking.
+
+127
+00:00:24,680 --> 00:00:25,080
+[SPEAKER_00]: That's exactly how it was <u>walking.</u>
+
+128
+00:00:25,868 --> 00:00:25,988
+[SPEAKER_00]: <u>You</u> know, David Attenborough's about to retire.
+
+129
+00:00:25,988 --> 00:00:26,008
+[SPEAKER_00]: You know, David Attenborough's about to retire.
+
+130
+00:00:26,008 --> 00:00:26,228
+[SPEAKER_00]: You <u>know,</u> David Attenborough's about to retire.
+
+131
+00:00:26,228 --> 00:00:26,348
+[SPEAKER_00]: You know, David Attenborough's about to retire.
+
+132
+00:00:26,348 --> 00:00:26,629
+[SPEAKER_00]: You know, <u>David</u> Attenborough's about to retire.
+
+133
+00:00:26,629 --> 00:00:26,689
+[SPEAKER_00]: You know, David Attenborough's about to retire.
+
+134
+00:00:26,689 --> 00:00:27,109
+[SPEAKER_00]: You know, David <u>Attenborough's</u> about to retire.
+
+135
+00:00:27,109 --> 00:00:27,149
+[SPEAKER_00]: You know, David Attenborough's about to retire.
+
+136
+00:00:27,149 --> 00:00:27,389
+[SPEAKER_00]: You know, David Attenborough's <u>about</u> to retire.
+
+137
+00:00:27,389 --> 00:00:27,449
+[SPEAKER_00]: You know, David Attenborough's about to retire.
+
+138
+00:00:27,449 --> 00:00:27,670
+[SPEAKER_00]: You know, David Attenborough's about <u>to</u> retire.
+
+139
+00:00:27,670 --> 00:00:27,950
+[SPEAKER_00]: You know, David Attenborough's about to retire.
+
+140
+00:00:27,950 --> 00:00:28,470
+[SPEAKER_00]: You know, David Attenborough's about to <u>retire.</u>
+
+141
+00:00:29,291 --> 00:00:29,531
+[SPEAKER_00]: <u>Can</u> I just say... What?
+
+142
+00:00:29,531 --> 00:00:29,571
+[SPEAKER_00]: Can I just say... What?
+
+143
+00:00:29,571 --> 00:00:29,651
+[SPEAKER_00]: Can <u>I</u> just say... What?
+
+144
+00:00:29,651 --> 00:00:29,691
+[SPEAKER_00]: Can I just say... What?
+
+145
+00:00:29,691 --> 00:00:29,932
+[SPEAKER_00]: Can I <u>just</u> say... What?
+
+146
+00:00:29,932 --> 00:00:29,992
+[SPEAKER_00]: Can I just say... What?
+
+147
+00:00:29,992 --> 00:00:30,232
+[SPEAKER_00]: Can I just <u>say...</u> What?
+
+148
+00:00:30,232 --> 00:00:30,512
+[SPEAKER_00]: Can I just say... What?
+
+149
+00:00:30,512 --> 00:00:30,752
+[SPEAKER_00]: Can I just say... <u>What?</u>
+
+150
+00:00:31,073 --> 00:00:31,193
+[SPEAKER_00]: <u>You</u> look like a gay cowboy and you look like a gay terrorist.
+
+151
+00:00:31,193 --> 00:00:31,213
+[SPEAKER_00]: You look like a gay cowboy and you look like a gay terrorist.
+
+152
+00:00:31,213 --> 00:00:31,393
+[SPEAKER_00]: You <u>look</u> like a gay cowboy and you look like a gay terrorist.
+
+153
+00:00:31,393 --> 00:00:31,413
+[SPEAKER_00]: You look like a gay cowboy and you look like a gay terrorist.
+
+154
+00:00:31,413 --> 00:00:31,553
+[SPEAKER_00]: You look <u>like</u> a gay cowboy and you look like a gay terrorist.
+
+155
+00:00:31,553 --> 00:00:31,593
+[SPEAKER_00]: You look like a gay cowboy and you look like a gay terrorist.
+
+156
+00:00:31,593 --> 00:00:31,633
+[SPEAKER_00]: You look like <u>a</u> gay cowboy and you look like a gay terrorist.
+
+157
+00:00:31,633 --> 00:00:31,713
+[SPEAKER_00]: You look like a gay cowboy and you look like a gay terrorist.
+
+158
+00:00:31,713 --> 00:00:31,974
+[SPEAKER_00]: You look like a <u>gay</u> cowboy and you look like a gay terrorist.
+
+159
+00:00:31,974 --> 00:00:32,054
+[SPEAKER_00]: You look like a gay cowboy and you look like a gay terrorist.
+
+160
+00:00:32,054 --> 00:00:32,614
+[SPEAKER_00]: You look like a gay <u>cowboy</u> and you look like a gay terrorist.
+
+161
+00:00:32,614 --> 00:00:32,974
+[SPEAKER_00]: You look like a gay cowboy and you look like a gay terrorist.
+
+162
+00:00:32,974 --> 00:00:33,075
+[SPEAKER_00]: You look like a gay cowboy <u>and</u> you look like a gay terrorist.
+
+163
+00:00:33,075 --> 00:00:33,095
+[SPEAKER_00]: You look like a gay cowboy and you look like a gay terrorist.
+
+164
+00:00:33,095 --> 00:00:33,215
+[SPEAKER_00]: You look like a gay cowboy and <u>you</u> look like a gay terrorist.
+
+165
+00:00:33,215 --> 00:00:33,235
+[SPEAKER_00]: You look like a gay cowboy and you look like a gay terrorist.
+
+166
+00:00:33,235 --> 00:00:33,435
+[SPEAKER_00]: You look like a gay cowboy and you <u>look</u> like a gay terrorist.
+
+167
+00:00:33,435 --> 00:00:33,455
+[SPEAKER_00]: You look like a gay cowboy and you look like a gay terrorist.
+
+168
+00:00:33,455 --> 00:00:33,595
+[SPEAKER_00]: You look like a gay cowboy and you look <u>like</u> a gay terrorist.
+
+169
+00:00:33,595 --> 00:00:33,635
+[SPEAKER_00]: You look like a gay cowboy and you look like a gay terrorist.
+
+170
+00:00:33,635 --> 00:00:33,675
+[SPEAKER_00]: You look like a gay cowboy and you look like <u>a</u> gay terrorist.
+
+171
+00:00:33,675 --> 00:00:33,735
+[SPEAKER_00]: You look like a gay cowboy and you look like a gay terrorist.
+
+172
+00:00:33,735 --> 00:00:33,955
+[SPEAKER_00]: You look like a gay cowboy and you look like a <u>gay</u> terrorist.
+
+173
+00:00:33,955 --> 00:00:34,035
+[SPEAKER_00]: You look like a gay cowboy and you look like a gay terrorist.
+
+174
+00:00:34,035 --> 00:00:34,576
+[SPEAKER_00]: You look like a gay cowboy and you look like a gay <u>terrorist.</u>
+
+175
+00:00:34,696 --> 00:00:34,896
+[SPEAKER_00]: <u>No,</u> you look like a terrorist with a broken windscreen wiper and your face is ridiculous.
+
+176
+00:00:34,896 --> 00:00:34,916
+[SPEAKER_00]: No, you look like a terrorist with a broken windscreen wiper and your face is ridiculous.
+
+177
+00:00:34,916 --> 00:00:35,036
+[SPEAKER_00]: No, <u>you</u> look like a terrorist with a broken windscreen wiper and your face is ridiculous.
+
+178
+00:00:35,036 --> 00:00:35,056
+[SPEAKER_00]: No, you look like a terrorist with a broken windscreen wiper and your face is ridiculous.
+
+179
+00:00:35,056 --> 00:00:35,196
+[SPEAKER_00]: No, you <u>look</u> like a terrorist with a broken windscreen wiper and your face is ridiculous.
+
+180
+00:00:35,196 --> 00:00:35,216
+[SPEAKER_00]: No, you look like a terrorist with a broken windscreen wiper and your face is ridiculous.
+
+181
+00:00:35,216 --> 00:00:35,317
+[SPEAKER_00]: No, you look <u>like</u> a terrorist with a broken windscreen wiper and your face is ridiculous.
+
+182
+00:00:35,317 --> 00:00:35,377
+[SPEAKER_00]: No, you look like a terrorist with a broken windscreen wiper and your face is ridiculous.
+
+183
+00:00:35,377 --> 00:00:35,417
+[SPEAKER_00]: No, you look like <u>a</u> terrorist with a broken windscreen wiper and your face is ridiculous.
+
+184
+00:00:35,417 --> 00:00:35,437
+[SPEAKER_00]: No, you look like a terrorist with a broken windscreen wiper and your face is ridiculous.
+
+185
+00:00:35,437 --> 00:00:35,777
+[SPEAKER_00]: No, you look like a <u>terrorist</u> with a broken windscreen wiper and your face is ridiculous.
+
+186
+00:00:35,777 --> 00:00:35,797
+[SPEAKER_00]: No, you look like a terrorist with a broken windscreen wiper and your face is ridiculous.
+
+187
+00:00:35,797 --> 00:00:35,917
+[SPEAKER_00]: No, you look like a terrorist <u>with</u> a broken windscreen wiper and your face is ridiculous.
+
+188
+00:00:35,917 --> 00:00:35,937
+[SPEAKER_00]: No, you look like a terrorist with a broken windscreen wiper and your face is ridiculous.
+
+189
+00:00:35,937 --> 00:00:35,957
+[SPEAKER_00]: No, you look like a terrorist with <u>a</u> broken windscreen wiper and your face is ridiculous.
+
+190
+00:00:35,957 --> 00:00:35,977
+[SPEAKER_00]: No, you look like a terrorist with a broken windscreen wiper and your face is ridiculous.
+
+191
+00:00:35,977 --> 00:00:36,237
+[SPEAKER_00]: No, you look like a terrorist with a <u>broken</u> windscreen wiper and your face is ridiculous.
+
+192
+00:00:36,237 --> 00:00:36,277
+[SPEAKER_00]: No, you look like a terrorist with a broken windscreen wiper and your face is ridiculous.
+
+193
+00:00:36,277 --> 00:00:36,698
+[SPEAKER_00]: No, you look like a terrorist with a broken <u>windscreen</u> wiper and your face is ridiculous.
+
+194
+00:00:36,698 --> 00:00:36,718
+[SPEAKER_00]: No, you look like a terrorist with a broken windscreen wiper and your face is ridiculous.
+
+195
+00:00:36,718 --> 00:00:36,938
+[SPEAKER_00]: No, you look like a terrorist with a broken windscreen <u>wiper</u> and your face is ridiculous.
+
+196
+00:00:36,938 --> 00:00:36,978
+[SPEAKER_00]: No, you look like a terrorist with a broken windscreen wiper and your face is ridiculous.
+
+197
+00:00:36,978 --> 00:00:37,058
+[SPEAKER_00]: No, you look like a terrorist with a broken windscreen wiper <u>and</u> your face is ridiculous.
+
+198
+00:00:37,058 --> 00:00:37,098
+[SPEAKER_00]: No, you look like a terrorist with a broken windscreen wiper and your face is ridiculous.
+
+199
+00:00:37,098 --> 00:00:37,218
+[SPEAKER_00]: No, you look like a terrorist with a broken windscreen wiper and <u>your</u> face is ridiculous.
+
+200
+00:00:37,218 --> 00:00:37,258
+[SPEAKER_00]: No, you look like a terrorist with a broken windscreen wiper and your face is ridiculous.
+
+201
+00:00:37,258 --> 00:00:37,458
+[SPEAKER_00]: No, you look like a terrorist with a broken windscreen wiper and your <u>face</u> is ridiculous.
+
+202
+00:00:37,458 --> 00:00:37,539
+[SPEAKER_00]: No, you look like a terrorist with a broken windscreen wiper and your face is ridiculous.
+
+203
+00:00:37,539 --> 00:00:37,599
+[SPEAKER_00]: No, you look like a terrorist with a broken windscreen wiper and your face <u>is</u> ridiculous.
+
+204
+00:00:37,599 --> 00:00:37,639
+[SPEAKER_00]: No, you look like a terrorist with a broken windscreen wiper and your face is ridiculous.
+
+205
+00:00:37,639 --> 00:00:38,219
+[SPEAKER_00]: No, you look like a terrorist with a broken windscreen wiper and your face is <u>ridiculous.</u>
+
+206
+00:00:39,260 --> 00:00:39,360
+[SPEAKER_00]: <u>Ern</u> Hammond started to pick on my car.
+
+207
+00:00:39,360 --> 00:00:39,420
+[SPEAKER_00]: Ern Hammond started to pick on my car.
+
+208
+00:00:39,420 --> 00:00:39,761
+[SPEAKER_00]: Ern <u>Hammond</u> started to pick on my car.
+
+209
+00:00:39,761 --> 00:00:39,801
+[SPEAKER_00]: Ern Hammond started to pick on my car.
+
+210
+00:00:39,801 --> 00:00:40,121
+[SPEAKER_00]: Ern Hammond <u>started</u> to pick on my car.
+
+211
+00:00:40,121 --> 00:00:40,161
+[SPEAKER_00]: Ern Hammond started to pick on my car.
+
+212
+00:00:40,161 --> 00:00:40,241
+[SPEAKER_00]: Ern Hammond started <u>to</u> pick on my car.
+
+213
+00:00:40,241 --> 00:00:40,281
+[SPEAKER_00]: Ern Hammond started to pick on my car.
+
+214
+00:00:40,281 --> 00:00:40,461
+[SPEAKER_00]: Ern Hammond started to <u>pick</u> on my car.
+
+215
+00:00:40,461 --> 00:00:40,521
+[SPEAKER_00]: Ern Hammond started to pick on my car.
+
+216
+00:00:40,521 --> 00:00:40,621
+[SPEAKER_00]: Ern Hammond started to pick <u>on</u> my car.
+
+217
+00:00:40,621 --> 00:00:40,661
+[SPEAKER_00]: Ern Hammond started to pick on my car.
+
+218
+00:00:40,661 --> 00:00:40,862
+[SPEAKER_00]: Ern Hammond started to pick on <u>my</u> car.
+
+219
+00:00:40,862 --> 00:00:40,982
+[SPEAKER_00]: Ern Hammond started to pick on my car.
+
+220
+00:00:40,982 --> 00:00:41,342
+[SPEAKER_00]: Ern Hammond started to pick on my <u>car.</u>
+
+221
+00:00:41,382 --> 00:00:41,522
+[SPEAKER_02]: <u>Why</u> haven't you turned it on?
+
+222
+00:00:41,522 --> 00:00:41,722
+[SPEAKER_02]: Why haven't you turned it on?
+
+223
+00:00:41,722 --> 00:00:41,923
+[SPEAKER_02]: Why <u>haven't</u> you turned it on?
+
+224
+00:00:41,923 --> 00:00:41,943
+[SPEAKER_02]: Why haven't you turned it on?
+
+225
+00:00:41,943 --> 00:00:42,023
+[SPEAKER_02]: Why haven't <u>you</u> turned it on?
+
+226
+00:00:42,023 --> 00:00:42,043
+[SPEAKER_02]: Why haven't you turned it on?
+
+227
+00:00:42,043 --> 00:00:42,203
+[SPEAKER_02]: Why haven't you <u>turned</u> it on?
+
+228
+00:00:42,203 --> 00:00:42,243
+[SPEAKER_02]: Why haven't you turned it on?
+
+229
+00:00:42,243 --> 00:00:42,283
+[SPEAKER_02]: Why haven't you turned <u>it</u> on?
+
+230
+00:00:42,283 --> 00:00:42,323
+[SPEAKER_02]: Why haven't you turned it on?
+
+231
+00:00:42,323 --> 00:00:42,443
+[SPEAKER_02]: Why haven't you turned it <u>on?</u>
+
+232
+00:00:42,703 --> 00:00:42,823
+[SPEAKER_00]: <u>It's</u> gathering electricity.
+
+233
+00:00:42,823 --> 00:00:42,983
+[SPEAKER_00]: It's gathering electricity.
+
+234
+00:00:42,983 --> 00:00:43,484
+[SPEAKER_00]: It's <u>gathering</u> electricity.
+
+235
+00:00:43,484 --> 00:00:43,544
+[SPEAKER_00]: It's gathering electricity.
+
+236
+00:00:43,544 --> 00:00:44,225
+[SPEAKER_00]: It's gathering <u>electricity.</u>
+
+237
+00:00:44,305 --> 00:00:44,405
+[SPEAKER_02]: <u>So</u> if you turn it off, the battery's not going to start it again.
+
+238
+00:00:44,405 --> 00:00:44,465
+[SPEAKER_02]: So if you turn it off, the battery's not going to start it again.
+
+239
+00:00:44,465 --> 00:00:44,525
+[SPEAKER_02]: So <u>if</u> you turn it off, the battery's not going to start it again.
+
+240
+00:00:44,525 --> 00:00:44,545
+[SPEAKER_02]: So if you turn it off, the battery's not going to start it again.
+
+241
+00:00:44,545 --> 00:00:44,685
+[SPEAKER_02]: So if <u>you</u> turn it off, the battery's not going to start it again.
+
+242
+00:00:44,685 --> 00:00:44,705
+[SPEAKER_02]: So if you turn it off, the battery's not going to start it again.
+
+243
+00:00:44,705 --> 00:00:44,885
+[SPEAKER_02]: So if you <u>turn</u> it off, the battery's not going to start it again.
+
+244
+00:00:44,885 --> 00:00:44,945
+[SPEAKER_02]: So if you turn it off, the battery's not going to start it again.
+
+245
+00:00:44,945 --> 00:00:44,985
+[SPEAKER_02]: So if you turn <u>it</u> off, the battery's not going to start it again.
+
+246
+00:00:44,985 --> 00:00:45,025
+[SPEAKER_02]: So if you turn it off, the battery's not going to start it again.
+
+247
+00:00:45,025 --> 00:00:45,145
+[SPEAKER_02]: So if you turn it <u>off,</u> the battery's not going to start it again.
+
+248
+00:00:45,145 --> 00:00:45,165
+[SPEAKER_02]: So if you turn it off, the battery's not going to start it again.
+
+249
+00:00:45,165 --> 00:00:45,246
+[SPEAKER_02]: So if you turn it off, <u>the</u> battery's not going to start it again.
+
+250
+00:00:45,246 --> 00:00:45,286
+[SPEAKER_02]: So if you turn it off, the battery's not going to start it again.
+
+251
+00:00:45,286 --> 00:00:45,646
+[SPEAKER_02]: So if you turn it off, the <u>battery's</u> not going to start it again.
+
+252
+00:00:45,646 --> 00:00:45,686
+[SPEAKER_02]: So if you turn it off, the battery's not going to start it again.
+
+253
+00:00:45,686 --> 00:00:45,786
+[SPEAKER_02]: So if you turn it off, the battery's <u>not</u> going to start it again.
+
+254
+00:00:45,786 --> 00:00:45,826
+[SPEAKER_02]: So if you turn it off, the battery's not going to start it again.
+
+255
+00:00:45,826 --> 00:00:45,966
+[SPEAKER_02]: So if you turn it off, the battery's not <u>going</u> to start it again.
+
+256
+00:00:45,966 --> 00:00:45,986
+[SPEAKER_02]: So if you turn it off, the battery's not going to start it again.
+
+257
+00:00:45,986 --> 00:00:46,026
+[SPEAKER_02]: So if you turn it off, the battery's not going <u>to</u> start it again.
+
+258
+00:00:46,026 --> 00:00:46,046
+[SPEAKER_02]: So if you turn it off, the battery's not going to start it again.
+
+259
+00:00:46,046 --> 00:00:46,286
+[SPEAKER_02]: So if you turn it off, the battery's not going to <u>start</u> it again.
+
+260
+00:00:46,286 --> 00:00:46,306
+[SPEAKER_02]: So if you turn it off, the battery's not going to start it again.
+
+261
+00:00:46,306 --> 00:00:46,367
+[SPEAKER_02]: So if you turn it off, the battery's not going to start <u>it</u> again.
+
+262
+00:00:46,367 --> 00:00:46,387
+[SPEAKER_02]: So if you turn it off, the battery's not going to start it again.
+
+263
+00:00:46,387 --> 00:00:46,567
+[SPEAKER_02]: So if you turn it off, the battery's not going to start it <u>again.</u>
+
+264
+00:00:47,107 --> 00:00:47,247
+[SPEAKER_02]: <u>Turn</u> it off and start it then.
+
+265
+00:00:47,247 --> 00:00:47,287
+[SPEAKER_02]: Turn it off and start it then.
+
+266
+00:00:47,287 --> 00:00:47,347
+[SPEAKER_02]: Turn <u>it</u> off and start it then.
+
+267
+00:00:47,347 --> 00:00:47,367
+[SPEAKER_02]: Turn it off and start it then.
+
+268
+00:00:47,367 --> 00:00:47,447
+[SPEAKER_02]: Turn it <u>off</u> and start it then.
+
+269
+00:00:47,447 --> 00:00:47,488
+[SPEAKER_02]: Turn it off and start it then.
+
+270
+00:00:47,488 --> 00:00:47,568
+[SPEAKER_02]: Turn it off <u>and</u> start it then.
+
+271
+00:00:47,568 --> 00:00:47,588
+[SPEAKER_02]: Turn it off and start it then.
+
+272
+00:00:47,588 --> 00:00:47,808
+[SPEAKER_02]: Turn it off and <u>start</u> it then.
+
+273
+00:00:47,808 --> 00:00:47,828
+[SPEAKER_02]: Turn it off and start it then.
+
+274
+00:00:47,828 --> 00:00:47,888
+[SPEAKER_02]: Turn it off and start <u>it</u> then.
+
+275
+00:00:47,888 --> 00:00:47,908
+[SPEAKER_02]: Turn it off and start it then.
+
+276
+00:00:47,908 --> 00:00:47,988
+[SPEAKER_02]: Turn it off and start it <u>then.</u>
+
+277
+00:00:48,408 --> 00:00:48,528
+[SPEAKER_00]: <u>Yeah,</u> go on.
+
+278
+00:00:48,528 --> 00:00:48,569
+[SPEAKER_00]: Yeah, go on.
+
+279
+00:00:48,569 --> 00:00:48,609
+[SPEAKER_00]: Yeah, <u>go</u> on.
+
+280
+00:00:48,609 --> 00:00:48,629
+[SPEAKER_00]: Yeah, go on.
+
+281
+00:00:48,629 --> 00:00:48,729
+[SPEAKER_00]: Yeah, go <u>on.</u>
+
+282
+00:00:48,969 --> 00:00:49,109
+[SPEAKER_00]: <u>Turn</u> it off and start it.
+
+283
+00:00:49,109 --> 00:00:49,129
+[SPEAKER_00]: Turn it off and start it.
+
+284
+00:00:49,129 --> 00:00:49,189
+[SPEAKER_00]: Turn <u>it</u> off and start it.
+
+285
+00:00:49,189 --> 00:00:49,229
+[SPEAKER_00]: Turn it off and start it.
+
+286
+00:00:49,229 --> 00:00:49,289
+[SPEAKER_00]: Turn it <u>off</u> and start it.
+
+287
+00:00:49,289 --> 00:00:49,329
+[SPEAKER_00]: Turn it off and start it.
+
+288
+00:00:49,329 --> 00:00:49,469
+[SPEAKER_00]: Turn it off <u>and</u> start it.
+
+289
+00:00:49,469 --> 00:00:49,489
+[SPEAKER_00]: Turn it off and start it.
+
+290
+00:00:49,489 --> 00:00:49,750
+[SPEAKER_00]: Turn it off and <u>start</u> it.
+
+291
+00:00:49,750 --> 00:00:49,810
+[SPEAKER_00]: Turn it off and start it.
+
+292
+00:00:49,810 --> 00:00:49,930
+[SPEAKER_00]: Turn it off and start <u>it.</u>
+
+293
+00:00:51,206 --> 00:00:51,386
+[SPEAKER_02]: <u>Let's</u> have some beautiful silence.
+
+294
+00:00:51,386 --> 00:00:51,406
+[SPEAKER_02]: Let's have some beautiful silence.
+
+295
+00:00:51,406 --> 00:00:51,526
+[SPEAKER_02]: Let's <u>have</u> some beautiful silence.
+
+296
+00:00:51,526 --> 00:00:51,566
+[SPEAKER_02]: Let's have some beautiful silence.
+
+297
+00:00:51,566 --> 00:00:51,746
+[SPEAKER_02]: Let's have <u>some</u> beautiful silence.
+
+298
+00:00:51,746 --> 00:00:52,127
+[SPEAKER_02]: Let's have some beautiful silence.
+
+299
+00:00:52,127 --> 00:00:52,587
+[SPEAKER_02]: Let's have some <u>beautiful</u> silence.
+
+300
+00:00:52,587 --> 00:00:52,667
+[SPEAKER_02]: Let's have some beautiful silence.
+
+301
+00:00:52,667 --> 00:00:53,167
+[SPEAKER_02]: Let's have some beautiful <u>silence.</u>
+
+302
+00:00:53,568 --> 00:00:53,628
+[SPEAKER_00]: <u>Are</u> you ready?
+
+303
+00:00:53,628 --> 00:00:53,648
+[SPEAKER_00]: Are you ready?
+
+304
+00:00:53,648 --> 00:00:53,748
+[SPEAKER_00]: Are <u>you</u> ready?
+
+305
+00:00:53,748 --> 00:00:53,788
+[SPEAKER_00]: Are you ready?
+
+306
+00:00:53,788 --> 00:00:54,068
+[SPEAKER_00]: Are you <u>ready?</u>
+
+307
+00:00:54,348 --> 00:00:54,608
+[SPEAKER_02]: <u>Yes.</u>
+
+308
+00:00:55,029 --> 00:00:55,089
+[SPEAKER_00]: <u>Are</u> you ready?
+
+309
+00:00:55,089 --> 00:00:55,109
+[SPEAKER_00]: Are you ready?
+
+310
+00:00:55,109 --> 00:00:55,229
+[SPEAKER_00]: Are <u>you</u> ready?
+
+311
+00:00:55,229 --> 00:00:55,289
+[SPEAKER_00]: Are you ready?
+
+312
+00:00:55,289 --> 00:00:55,609
+[SPEAKER_00]: Are you <u>ready?</u>
+
+313
+00:00:55,889 --> 00:00:56,149
+[SPEAKER_02]: <u>Yes.</u>
+
+314
+00:00:59,451 --> 00:01:00,132
+[SPEAKER_00]: <u>Behold...</u> Why did you turn it off, you idiot?
+
+315
+00:01:00,132 --> 00:01:04,515
+[SPEAKER_00]: Behold... Why did you turn it off, you idiot?
+
+316
+00:01:04,515 --> 00:01:04,615
+[SPEAKER_00]: Behold... <u>Why</u> did you turn it off, you idiot?
+
+317
+00:01:04,615 --> 00:01:04,655
+[SPEAKER_00]: Behold... Why did you turn it off, you idiot?
+
+318
+00:01:04,655 --> 00:01:04,755
+[SPEAKER_00]: Behold... Why <u>did</u> you turn it off, you idiot?
+
+319
+00:01:04,755 --> 00:01:04,775
+[SPEAKER_00]: Behold... Why did you turn it off, you idiot?
+
+320
+00:01:04,775 --> 00:01:04,875
+[SPEAKER_00]: Behold... Why did <u>you</u> turn it off, you idiot?
+
+321
+00:01:04,875 --> 00:01:04,915
+[SPEAKER_00]: Behold... Why did you turn it off, you idiot?
+
+322
+00:01:04,915 --> 00:01:05,175
+[SPEAKER_00]: Behold... Why did you <u>turn</u> it off, you idiot?
+
+323
+00:01:05,175 --> 00:01:05,195
+[SPEAKER_00]: Behold... Why did you turn it off, you idiot?
+
+324
+00:01:05,195 --> 00:01:05,255
+[SPEAKER_00]: Behold... Why did you turn <u>it</u> off, you idiot?
+
+325
+00:01:05,255 --> 00:01:05,395
+[SPEAKER_00]: Behold... Why did you turn it off, you idiot?
+
+326
+00:01:05,395 --> 00:01:05,555
+[SPEAKER_00]: Behold... Why did you turn it <u>off,</u> you idiot?
+
+327
+00:01:05,555 --> 00:01:05,595
+[SPEAKER_00]: Behold... Why did you turn it off, you idiot?
+
+328
+00:01:05,595 --> 00:01:05,836
+[SPEAKER_00]: Behold... Why did you turn it off, <u>you</u> idiot?
+
+329
+00:01:05,836 --> 00:01:05,856
+[SPEAKER_00]: Behold... Why did you turn it off, you idiot?
+
+330
+00:01:05,856 --> 00:01:06,196
+[SPEAKER_00]: Behold... Why did you turn it off, you <u>idiot?</u>
+
+331
+00:01:06,236 --> 00:01:06,516
+[SPEAKER_00]: <u>Because</u> he said it would... Good luck, mate.
+
+332
+00:01:06,516 --> 00:01:06,556
+[SPEAKER_00]: Because he said it would... Good luck, mate.
+
+333
+00:01:06,556 --> 00:01:06,716
+[SPEAKER_00]: Because <u>he</u> said it would... Good luck, mate.
+
+334
+00:01:06,716 --> 00:01:06,816
+[SPEAKER_00]: Because he said it would... Good luck, mate.
+
+335
+00:01:06,816 --> 00:01:07,096
+[SPEAKER_00]: Because he <u>said</u> it would... Good luck, mate.
+
+336
+00:01:07,096 --> 00:01:07,116
+[SPEAKER_00]: Because he said it would... Good luck, mate.
+
+337
+00:01:07,116 --> 00:01:07,156
+[SPEAKER_00]: Because he said <u>it</u> would... Good luck, mate.
+
+338
+00:01:07,156 --> 00:01:07,277
+[SPEAKER_00]: Because he said it would... Good luck, mate.
+
+339
+00:01:07,277 --> 00:01:07,437
+[SPEAKER_00]: Because he said it <u>would...</u> Good luck, mate.
+
+340
+00:01:07,437 --> 00:01:08,037
+[SPEAKER_00]: Because he said it would... Good luck, mate.
+
+341
+00:01:08,037 --> 00:01:08,177
+[SPEAKER_00]: Because he said it would... <u>Good</u> luck, mate.
+
+342
+00:01:08,177 --> 00:01:08,197
+[SPEAKER_00]: Because he said it would... Good luck, mate.
+
+343
+00:01:08,197 --> 00:01:08,317
+[SPEAKER_00]: Because he said it would... Good <u>luck,</u> mate.
+
+344
+00:01:08,317 --> 00:01:08,337
+[SPEAKER_00]: Because he said it would... Good luck, mate.
+
+345
+00:01:08,337 --> 00:01:08,457
+[SPEAKER_00]: Because he said it would... Good luck, <u>mate.</u>
+
+346
+00:01:08,497 --> 00:01:08,698
+[SPEAKER_00]: <u>Somebody</u> will give you a dub stop.
+
+347
+00:01:08,698 --> 00:01:08,718
+[SPEAKER_00]: Somebody will give you a dub stop.
+
+348
+00:01:08,718 --> 00:01:08,818
+[SPEAKER_00]: Somebody <u>will</u> give you a dub stop.
+
+349
+00:01:08,818 --> 00:01:08,838
+[SPEAKER_00]: Somebody will give you a dub stop.
+
+350
+00:01:08,838 --> 00:01:09,378
+[SPEAKER_00]: Somebody will <u>give</u> you a dub stop.
+
+351
+00:01:09,378 --> 00:01:09,418
+[SPEAKER_00]: Somebody will give you a dub stop.
+
+352
+00:01:09,418 --> 00:01:09,478
+[SPEAKER_00]: Somebody will give <u>you</u> a dub stop.
+
+353
+00:01:09,478 --> 00:01:09,498
+[SPEAKER_00]: Somebody will give you a dub stop.
+
+354
+00:01:09,498 --> 00:01:09,518
+[SPEAKER_00]: Somebody will give you <u>a</u> dub stop.
+
+355
+00:01:09,518 --> 00:01:09,538
+[SPEAKER_00]: Somebody will give you a dub stop.
+
+356
+00:01:09,538 --> 00:01:09,678
+[SPEAKER_00]: Somebody will give you a <u>dub</u> stop.
+
+357
+00:01:09,678 --> 00:01:09,698
+[SPEAKER_00]: Somebody will give you a dub stop.
+
+358
+00:01:09,698 --> 00:01:10,239
+[SPEAKER_00]: Somebody will give you a dub <u>stop.</u>
+
+359
+00:01:10,299 --> 00:01:10,539
+[SPEAKER_00]: <u>Don't</u> go away.
+
+360
+00:01:10,539 --> 00:01:10,699
+[SPEAKER_00]: Don't go away.
+
+361
+00:01:10,699 --> 00:01:10,899
+[SPEAKER_00]: Don't <u>go</u> away.
+
+362
+00:01:10,899 --> 00:01:10,999
+[SPEAKER_00]: Don't go away.
+
+363
+00:01:10,999 --> 00:01:11,319
+[SPEAKER_00]: Don't go <u>away.</u>
+
+364
+00:01:11,339 --> 00:01:11,860
+[SPEAKER_00]: <u>Goodbye.</u>
+
+365
+00:01:15,396 --> 00:01:16,076
+[SPEAKER_01]: <u>Annoyingly,</u> Clarkson got the lancet going again.
+
+366
+00:01:16,076 --> 00:01:16,176
+[SPEAKER_01]: Annoyingly, Clarkson got the lancet going again.
+
+367
+00:01:16,176 --> 00:01:16,597
+[SPEAKER_01]: Annoyingly, <u>Clarkson</u> got the lancet going again.
+
+368
+00:01:16,597 --> 00:01:16,617
+[SPEAKER_01]: Annoyingly, Clarkson got the lancet going again.
+
+369
+00:01:16,617 --> 00:01:16,777
+[SPEAKER_01]: Annoyingly, Clarkson <u>got</u> the lancet going again.
+
+370
+00:01:16,777 --> 00:01:16,797
+[SPEAKER_01]: Annoyingly, Clarkson got the lancet going again.
+
+371
+00:01:16,797 --> 00:01:16,877
+[SPEAKER_01]: Annoyingly, Clarkson got <u>the</u> lancet going again.
+
+372
+00:01:16,877 --> 00:01:16,917
+[SPEAKER_01]: Annoyingly, Clarkson got the lancet going again.
+
+373
+00:01:16,917 --> 00:01:17,357
+[SPEAKER_01]: Annoyingly, Clarkson got the <u>lancet</u> going again.
+
+374
+00:01:17,357 --> 00:01:17,397
+[SPEAKER_01]: Annoyingly, Clarkson got the lancet going again.
+
+375
+00:01:17,397 --> 00:01:17,697
+[SPEAKER_01]: Annoyingly, Clarkson got the lancet <u>going</u> again.
+
+376
+00:01:17,697 --> 00:01:17,757
+[SPEAKER_01]: Annoyingly, Clarkson got the lancet going again.
+
+377
+00:01:17,757 --> 00:01:18,017
+[SPEAKER_01]: Annoyingly, Clarkson got the lancet going <u>again.</u>
+
+378
+00:01:19,058 --> 00:01:19,138
+[SPEAKER_01]: <u>And</u> then we came across some big birds.
+
+379
+00:01:19,138 --> 00:01:19,178
+[SPEAKER_01]: And then we came across some big birds.
+
+380
+00:01:19,178 --> 00:01:19,378
+[SPEAKER_01]: And <u>then</u> we came across some big birds.
+
+381
+00:01:19,378 --> 00:01:19,438
+[SPEAKER_01]: And then we came across some big birds.
+
+382
+00:01:19,438 --> 00:01:19,538
+[SPEAKER_01]: And then <u>we</u> came across some big birds.
+
+383
+00:01:19,538 --> 00:01:19,578
+[SPEAKER_01]: And then we came across some big birds.
+
+384
+00:01:19,578 --> 00:01:19,778
+[SPEAKER_01]: And then we <u>came</u> across some big birds.
+
+385
+00:01:19,778 --> 00:01:19,818
+[SPEAKER_01]: And then we came across some big birds.
+
+386
+00:01:19,818 --> 00:01:20,119
+[SPEAKER_01]: And then we came <u>across</u> some big birds.
+
+387
+00:01:20,119 --> 00:01:20,159
+[SPEAKER_01]: And then we came across some big birds.
+
+388
+00:01:20,159 --> 00:01:20,299
+[SPEAKER_01]: And then we came across <u>some</u> big birds.
+
+389
+00:01:20,299 --> 00:01:20,459
+[SPEAKER_01]: And then we came across some big birds.
+
+390
+00:01:20,459 --> 00:01:20,679
+[SPEAKER_01]: And then we came across some <u>big</u> birds.
+
+391
+00:01:20,679 --> 00:01:20,819
+[SPEAKER_01]: And then we came across some big birds.
+
+392
+00:01:20,819 --> 00:01:21,299
+[SPEAKER_01]: And then we came across some big <u>birds.</u>
+
+393
+00:01:21,379 --> 00:01:21,659
+[SPEAKER_01]: <u>Wow!</u>
+
+394
+00:01:21,880 --> 00:01:22,040
+<u>And</u> then we saw even more wildlife.
+
+395
+00:01:22,040 --> 00:01:22,060
+And then we saw even more wildlife.
+
+396
+00:01:22,060 --> 00:01:22,280
+And <u>then</u> we saw even more wildlife.
+
+397
+00:01:22,280 --> 00:01:22,320
+And then we saw even more wildlife.
+
+398
+00:01:22,320 --> 00:01:22,460
+And then <u>we</u> saw even more wildlife.
+
+399
+00:01:22,460 --> 00:01:22,480
+And then we saw even more wildlife.
+
+400
+00:01:22,480 --> 00:01:22,680
+And then we <u>saw</u> even more wildlife.
+
+401
+00:01:22,680 --> 00:01:22,740
+And then we saw even more wildlife.
+
+402
+00:01:22,740 --> 00:01:22,900
+And then we saw <u>even</u> more wildlife.
+
+403
+00:01:22,900 --> 00:01:22,920
+And then we saw even more wildlife.
+
+404
+00:01:22,920 --> 00:01:23,080
+And then we saw even <u>more</u> wildlife.
+
+405
+00:01:23,080 --> 00:01:23,100
+And then we saw even more wildlife.
+
+406
+00:01:23,100 --> 00:01:23,660
+And then we saw even more <u>wildlife.</u>
+
+407
+00:01:23,681 --> 00:01:24,001
+<u>There's</u> a cow.
+
+408
+00:01:24,001 --> 00:01:24,361
+There's a cow.
+
+409
+00:01:24,361 --> 00:01:24,501
+There's <u>a</u> cow.
+
+410
+00:01:24,501 --> 00:01:24,541
+There's a cow.
+
+411
+00:01:24,541 --> 00:01:25,461
+There's a <u>cow.</u>
+
+412
+00:01:25,501 --> 00:01:25,682
+[SPEAKER_01]: <u>Two</u> cows, three cows.
+
+413
+00:01:25,682 --> 00:01:25,802
+[SPEAKER_01]: Two cows, three cows.
+
+414
+00:01:25,802 --> 00:01:26,522
+[SPEAKER_01]: Two <u>cows,</u> three cows.
+
+415
+00:01:26,522 --> 00:01:26,582
+[SPEAKER_01]: Two cows, three cows.
+
+416
+00:01:26,582 --> 00:01:29,904
+[SPEAKER_01]: Two cows, <u>three</u> cows.
+
+417
+00:01:29,904 --> 00:01:30,044
+[SPEAKER_01]: Two cows, three cows.
+
+418
+00:01:30,044 --> 00:01:30,584
+[SPEAKER_01]: Two cows, three <u>cows.</u>
+
+419
+00:01:31,345 --> 00:01:31,485
+<u>Yes!</u>
+
+420
+00:01:31,505 --> 00:01:31,645
+<u>We've</u> done it!
+
+421
+00:01:31,645 --> 00:01:31,665
+We've done it!
+
+422
+00:01:31,665 --> 00:01:31,805
+We've <u>done</u> it!
+
+423
+00:01:31,805 --> 00:01:31,905
+We've done it!
+
+424
+00:01:31,905 --> 00:01:31,945
+We've done <u>it!</u>
+
+425
+00:01:43,407 --> 00:01:43,547
+[SPEAKER_00]: <u>We</u> had crossed the Mercati caddy.
+
+426
+00:01:43,547 --> 00:01:43,567
+[SPEAKER_00]: We had crossed the Mercati caddy.
+
+427
+00:01:43,567 --> 00:01:43,687
+[SPEAKER_00]: We <u>had</u> crossed the Mercati caddy.
+
+428
+00:01:43,687 --> 00:01:43,787
+[SPEAKER_00]: We had crossed the Mercati caddy.
+
+429
+00:01:43,787 --> 00:01:44,188
+[SPEAKER_00]: We had <u>crossed</u> the Mercati caddy.
+
+430
+00:01:44,188 --> 00:01:44,448
+[SPEAKER_00]: We had crossed the Mercati caddy.
+
+431
+00:01:44,448 --> 00:01:44,548
+[SPEAKER_00]: We had crossed <u>the</u> Mercati caddy.
+
+432
+00:01:44,548 --> 00:01:44,588
+[SPEAKER_00]: We had crossed the Mercati caddy.
+
+433
+00:01:44,588 --> 00:01:45,049
+[SPEAKER_00]: We had crossed the <u>Mercati</u> caddy.
+
+434
+00:01:45,049 --> 00:01:45,109
+[SPEAKER_00]: We had crossed the Mercati caddy.
+
+435
+00:01:45,109 --> 00:01:45,449
+[SPEAKER_00]: We had crossed the Mercati <u>caddy.</u>
+
+436
+00:01:46,550 --> 00:01:47,491
+[SPEAKER_02]: <u>Trees!</u>
+
+437
+00:01:48,412 --> 00:01:48,932
+[SPEAKER_02]: <u>Life!</u>
+
+438
+00:01:49,413 --> 00:01:49,753
+[SPEAKER_02]: <u>Mate,</u> did you ever think that you'd do that?
+
+439
+00:01:49,753 --> 00:01:49,813
+[SPEAKER_02]: Mate, did you ever think that you'd do that?
+
+440
+00:01:49,813 --> 00:01:49,953
+[SPEAKER_02]: Mate, <u>did</u> you ever think that you'd do that?
+
+441
+00:01:49,953 --> 00:01:49,973
+[SPEAKER_02]: Mate, did you ever think that you'd do that?
+
+442
+00:01:49,973 --> 00:01:50,133
+[SPEAKER_02]: Mate, did <u>you</u> ever think that you'd do that?
+
+443
+00:01:50,133 --> 00:01:50,194
+[SPEAKER_02]: Mate, did you ever think that you'd do that?
+
+444
+00:01:50,194 --> 00:01:50,414
+[SPEAKER_02]: Mate, did you <u>ever</u> think that you'd do that?
+
+445
+00:01:50,414 --> 00:01:50,454
+[SPEAKER_02]: Mate, did you ever think that you'd do that?
+
+446
+00:01:50,454 --> 00:01:50,794
+[SPEAKER_02]: Mate, did you ever <u>think</u> that you'd do that?
+
+447
+00:01:50,794 --> 00:01:51,215
+[SPEAKER_02]: Mate, did you ever think that you'd do that?
+
+448
+00:01:51,215 --> 00:01:51,335
+[SPEAKER_02]: Mate, did you ever think <u>that</u> you'd do that?
+
+449
+00:01:51,335 --> 00:01:51,375
+[SPEAKER_02]: Mate, did you ever think that you'd do that?
+
+450
+00:01:51,375 --> 00:01:51,555
+[SPEAKER_02]: Mate, did you ever think that <u>you'd</u> do that?
+
+451
+00:01:51,555 --> 00:01:51,595
+[SPEAKER_02]: Mate, did you ever think that you'd do that?
+
+452
+00:01:51,595 --> 00:01:51,775
+[SPEAKER_02]: Mate, did you ever think that you'd <u>do</u> that?
+
+453
+00:01:51,775 --> 00:01:51,835
+[SPEAKER_02]: Mate, did you ever think that you'd do that?
+
+454
+00:01:51,835 --> 00:01:52,075
+[SPEAKER_02]: Mate, did you ever think that you'd do <u>that?</u>
+
+455
+00:01:52,496 --> 00:01:52,576
+[SPEAKER_02]: <u>I'm</u> genuinely proud of him.
+
+456
+00:01:52,576 --> 00:01:52,616
+[SPEAKER_02]: I'm genuinely proud of him.
+
+457
+00:01:52,616 --> 00:01:53,016
+[SPEAKER_02]: I'm <u>genuinely</u> proud of him.
+
+458
+00:01:53,016 --> 00:01:53,056
+[SPEAKER_02]: I'm genuinely proud of him.
+
+459
+00:01:53,056 --> 00:01:53,297
+[SPEAKER_02]: I'm genuinely <u>proud</u> of him.
+
+460
+00:01:53,297 --> 00:01:53,357
+[SPEAKER_02]: I'm genuinely proud of him.
+
+461
+00:01:53,357 --> 00:01:53,417
+[SPEAKER_02]: I'm genuinely proud <u>of</u> him.
+
+462
+00:01:53,417 --> 00:01:53,437
+[SPEAKER_02]: I'm genuinely proud of him.
+
+463
+00:01:53,437 --> 00:01:53,497
+[SPEAKER_02]: I'm genuinely proud of <u>him.</u>
+
+464
+00:01:54,418 --> 00:01:54,478
+[SPEAKER_02]: <u>I</u> am.
+
+465
+00:01:54,478 --> 00:01:54,578
+[SPEAKER_02]: I am.
+
+466
+00:01:54,578 --> 00:01:54,738
+[SPEAKER_02]: I <u>am.</u>
+
+467
+00:01:56,059 --> 00:01:56,379
+[SPEAKER_00]: <u>Really,</u> I'm startled that this... that isn't a car anymore, whatever it is, has done it.
+
+468
+00:01:56,379 --> 00:01:56,860
+[SPEAKER_00]: Really, I'm startled that this... that isn't a car anymore, whatever it is, has done it.
+
+469
+00:01:56,860 --> 00:01:57,000
+[SPEAKER_00]: Really, <u>I'm</u> startled that this... that isn't a car anymore, whatever it is, has done it.
+
+470
+00:01:57,000 --> 00:01:57,100
+[SPEAKER_00]: Really, I'm startled that this... that isn't a car anymore, whatever it is, has done it.
+
+471
+00:01:57,100 --> 00:01:57,641
+[SPEAKER_00]: Really, I'm <u>startled</u> that this... that isn't a car anymore, whatever it is, has done it.
+
+472
+00:01:57,641 --> 00:01:57,721
+[SPEAKER_00]: Really, I'm startled that this... that isn't a car anymore, whatever it is, has done it.
+
+473
+00:01:57,721 --> 00:01:57,881
+[SPEAKER_00]: Really, I'm startled <u>that</u> this... that isn't a car anymore, whatever it is, has done it.
+
+474
+00:01:57,881 --> 00:01:58,041
+[SPEAKER_00]: Really, I'm startled that this... that isn't a car anymore, whatever it is, has done it.
+
+475
+00:01:58,041 --> 00:01:58,281
+[SPEAKER_00]: Really, I'm startled that <u>this...</u> that isn't a car anymore, whatever it is, has done it.
+
+476
+00:01:58,281 --> 00:01:59,162
+[SPEAKER_00]: Really, I'm startled that this... that isn't a car anymore, whatever it is, has done it.
+
+477
+00:01:59,162 --> 00:01:59,282
+[SPEAKER_00]: Really, I'm startled that this... <u>that</u> isn't a car anymore, whatever it is, has done it.
+
+478
+00:01:59,282 --> 00:01:59,342
+[SPEAKER_00]: Really, I'm startled that this... that isn't a car anymore, whatever it is, has done it.
+
+479
+00:01:59,342 --> 00:01:59,482
+[SPEAKER_00]: Really, I'm startled that this... that <u>isn't</u> a car anymore, whatever it is, has done it.
+
+480
+00:01:59,482 --> 00:01:59,563
+[SPEAKER_00]: Really, I'm startled that this... that isn't a car anymore, whatever it is, has done it.
+
+481
+00:01:59,563 --> 00:01:59,603
+[SPEAKER_00]: Really, I'm startled that this... that isn't <u>a</u> car anymore, whatever it is, has done it.
+
+482
+00:01:59,603 --> 00:01:59,643
+[SPEAKER_00]: Really, I'm startled that this... that isn't a car anymore, whatever it is, has done it.
+
+483
+00:01:59,643 --> 00:01:59,943
+[SPEAKER_00]: Really, I'm startled that this... that isn't a <u>car</u> anymore, whatever it is, has done it.
+
+484
+00:01:59,943 --> 00:01:59,963
+[SPEAKER_00]: Really, I'm startled that this... that isn't a car anymore, whatever it is, has done it.
+
+485
+00:01:59,963 --> 00:02:00,363
+[SPEAKER_00]: Really, I'm startled that this... that isn't a car <u>anymore,</u> whatever it is, has done it.
+
+486
+00:02:00,363 --> 00:02:00,383
+[SPEAKER_00]: Really, I'm startled that this... that isn't a car anymore, whatever it is, has done it.
+
+487
+00:02:00,383 --> 00:02:00,704
+[SPEAKER_00]: Really, I'm startled that this... that isn't a car anymore, <u>whatever</u> it is, has done it.
+
+488
+00:02:00,704 --> 00:02:00,764
+[SPEAKER_00]: Really, I'm startled that this... that isn't a car anymore, whatever it is, has done it.
+
+489
+00:02:00,764 --> 00:02:00,824
+[SPEAKER_00]: Really, I'm startled that this... that isn't a car anymore, whatever <u>it</u> is, has done it.
+
+490
+00:02:00,824 --> 00:02:00,944
+[SPEAKER_00]: Really, I'm startled that this... that isn't a car anymore, whatever it is, has done it.
+
+491
+00:02:00,944 --> 00:02:01,064
+[SPEAKER_00]: Really, I'm startled that this... that isn't a car anymore, whatever it <u>is,</u> has done it.
+
+492
+00:02:01,064 --> 00:02:01,304
+[SPEAKER_00]: Really, I'm startled that this... that isn't a car anymore, whatever it is, has done it.
+
+493
+00:02:01,304 --> 00:02:01,444
+[SPEAKER_00]: Really, I'm startled that this... that isn't a car anymore, whatever it is, <u>has</u> done it.
+
+494
+00:02:01,444 --> 00:02:01,484
+[SPEAKER_00]: Really, I'm startled that this... that isn't a car anymore, whatever it is, has done it.
+
+495
+00:02:01,484 --> 00:02:01,665
+[SPEAKER_00]: Really, I'm startled that this... that isn't a car anymore, whatever it is, has <u>done</u> it.
+
+496
+00:02:01,665 --> 00:02:01,725
+[SPEAKER_00]: Really, I'm startled that this... that isn't a car anymore, whatever it is, has done it.
+
+497
+00:02:01,725 --> 00:02:01,765
+[SPEAKER_00]: Really, I'm startled that this... that isn't a car anymore, whatever it is, has done <u>it.</u>
+
+498
+00:02:02,475 --> 00:02:02,615
+[SPEAKER_00]: <u>with</u> its low-profile tyres and its low suspension that's broken.
+
+499
+00:02:02,615 --> 00:02:02,635
+[SPEAKER_00]: with its low-profile tyres and its low suspension that's broken.
+
+500
+00:02:02,635 --> 00:02:02,755
+[SPEAKER_00]: with <u>its</u> low-profile tyres and its low suspension that's broken.
+
+501
+00:02:02,755 --> 00:02:02,795
+[SPEAKER_00]: with its low-profile tyres and its low suspension that's broken.
+
+502
+00:02:02,795 --> 00:02:03,495
+[SPEAKER_00]: with its <u>low-profile</u> tyres and its low suspension that's broken.
+
+503
+00:02:03,495 --> 00:02:03,575
+[SPEAKER_00]: with its low-profile tyres and its low suspension that's broken.
+
+504
+00:02:03,575 --> 00:02:03,916
+[SPEAKER_00]: with its low-profile <u>tyres</u> and its low suspension that's broken.
+
+505
+00:02:03,916 --> 00:02:03,976
+[SPEAKER_00]: with its low-profile tyres and its low suspension that's broken.
+
+506
+00:02:03,976 --> 00:02:04,056
+[SPEAKER_00]: with its low-profile tyres <u>and</u> its low suspension that's broken.
+
+507
+00:02:04,056 --> 00:02:04,096
+[SPEAKER_00]: with its low-profile tyres and its low suspension that's broken.
+
+508
+00:02:04,096 --> 00:02:04,236
+[SPEAKER_00]: with its low-profile tyres and <u>its</u> low suspension that's broken.
+
+509
+00:02:04,236 --> 00:02:04,696
+[SPEAKER_00]: with its low-profile tyres and its low suspension that's broken.
+
+510
+00:02:04,696 --> 00:02:04,976
+[SPEAKER_00]: with its low-profile tyres and its <u>low</u> suspension that's broken.
+
+511
+00:02:04,976 --> 00:02:05,036
+[SPEAKER_00]: with its low-profile tyres and its low suspension that's broken.
+
+512
+00:02:05,036 --> 00:02:05,736
+[SPEAKER_00]: with its low-profile tyres and its low <u>suspension</u> that's broken.
+
+513
+00:02:05,736 --> 00:02:05,756
+[SPEAKER_00]: with its low-profile tyres and its low suspension that's broken.
+
+514
+00:02:05,756 --> 00:02:05,936
+[SPEAKER_00]: with its low-profile tyres and its low suspension <u>that's</u> broken.
+
+515
+00:02:05,936 --> 00:02:06,016
+[SPEAKER_00]: with its low-profile tyres and its low suspension that's broken.
+
+516
+00:02:06,016 --> 00:02:06,556
+[SPEAKER_00]: with its low-profile tyres and its low suspension that's <u>broken.</u>
+
+517
+00:02:06,817 --> 00:02:07,337
+[SPEAKER_01]: <u>Personally,</u> I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+518
+00:02:07,337 --> 00:02:07,457
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+519
+00:02:07,457 --> 00:02:07,577
+[SPEAKER_01]: Personally, <u>I'm</u> absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+520
+00:02:07,577 --> 00:02:07,637
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+521
+00:02:07,637 --> 00:02:08,057
+[SPEAKER_01]: Personally, I'm <u>absolutely</u> delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+522
+00:02:08,057 --> 00:02:08,077
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+523
+00:02:08,077 --> 00:02:08,537
+[SPEAKER_01]: Personally, I'm absolutely <u>delighted</u> because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+524
+00:02:08,537 --> 00:02:08,557
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+525
+00:02:08,557 --> 00:02:08,737
+[SPEAKER_01]: Personally, I'm absolutely delighted <u>because</u> I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+526
+00:02:08,737 --> 00:02:08,757
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+527
+00:02:08,757 --> 00:02:08,797
+[SPEAKER_01]: Personally, I'm absolutely delighted because <u>I</u> think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+528
+00:02:08,797 --> 00:02:08,817
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+529
+00:02:08,817 --> 00:02:08,937
+[SPEAKER_01]: Personally, I'm absolutely delighted because I <u>think</u> the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+530
+00:02:08,937 --> 00:02:08,957
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+531
+00:02:08,957 --> 00:02:09,017
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think <u>the</u> Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+532
+00:02:09,017 --> 00:02:09,057
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+533
+00:02:09,057 --> 00:02:09,377
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the <u>Macaddy</u> Caddy is one of the most unpleasant places I've ever been.
+
+534
+00:02:09,377 --> 00:02:09,417
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+535
+00:02:09,417 --> 00:02:09,638
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy <u>Caddy</u> is one of the most unpleasant places I've ever been.
+
+536
+00:02:09,638 --> 00:02:09,678
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+537
+00:02:09,678 --> 00:02:09,738
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy <u>is</u> one of the most unpleasant places I've ever been.
+
+538
+00:02:09,738 --> 00:02:09,758
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+539
+00:02:09,758 --> 00:02:09,818
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is <u>one</u> of the most unpleasant places I've ever been.
+
+540
+00:02:09,818 --> 00:02:09,838
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+541
+00:02:09,838 --> 00:02:09,878
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one <u>of</u> the most unpleasant places I've ever been.
+
+542
+00:02:09,878 --> 00:02:09,898
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+543
+00:02:09,898 --> 00:02:09,978
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of <u>the</u> most unpleasant places I've ever been.
+
+544
+00:02:09,978 --> 00:02:10,018
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+545
+00:02:10,018 --> 00:02:10,158
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the <u>most</u> unpleasant places I've ever been.
+
+546
+00:02:10,158 --> 00:02:10,318
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+547
+00:02:10,318 --> 00:02:10,858
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most <u>unpleasant</u> places I've ever been.
+
+548
+00:02:10,858 --> 00:02:10,918
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+549
+00:02:10,918 --> 00:02:11,258
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant <u>places</u> I've ever been.
+
+550
+00:02:11,258 --> 00:02:11,298
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+551
+00:02:11,298 --> 00:02:11,398
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places <u>I've</u> ever been.
+
+552
+00:02:11,398 --> 00:02:11,418
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+553
+00:02:11,418 --> 00:02:11,638
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've <u>ever</u> been.
+
+554
+00:02:11,638 --> 00:02:11,658
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever been.
+
+555
+00:02:11,658 --> 00:02:11,938
+[SPEAKER_01]: Personally, I'm absolutely delighted because I think the Macaddy Caddy is one of the most unpleasant places I've ever <u>been.</u>
+
+556
+00:02:12,539 --> 00:02:12,679
+[SPEAKER_01]: <u>It's</u> just a big bowl of dust.
+
+557
+00:02:12,679 --> 00:02:12,739
+[SPEAKER_01]: It's just a big bowl of dust.
+
+558
+00:02:12,739 --> 00:02:12,979
+[SPEAKER_01]: It's <u>just</u> a big bowl of dust.
+
+559
+00:02:12,979 --> 00:02:13,079
+[SPEAKER_01]: It's just a big bowl of dust.
+
+560
+00:02:13,079 --> 00:02:13,119
+[SPEAKER_01]: It's just <u>a</u> big bowl of dust.
+
+561
+00:02:13,119 --> 00:02:13,219
+[SPEAKER_01]: It's just a big bowl of dust.
+
+562
+00:02:13,219 --> 00:02:13,439
+[SPEAKER_01]: It's just a <u>big</u> bowl of dust.
+
+563
+00:02:13,439 --> 00:02:13,579
+[SPEAKER_01]: It's just a big bowl of dust.
+
+564
+00:02:13,579 --> 00:02:13,839
+[SPEAKER_01]: It's just a big <u>bowl</u> of dust.
+
+565
+00:02:13,839 --> 00:02:13,879
+[SPEAKER_01]: It's just a big bowl of dust.
+
+566
+00:02:13,879 --> 00:02:13,939
+[SPEAKER_01]: It's just a big bowl <u>of</u> dust.
+
+567
+00:02:13,939 --> 00:02:14,059
+[SPEAKER_01]: It's just a big bowl of dust.
+
+568
+00:02:14,059 --> 00:02:14,359
+[SPEAKER_01]: It's just a big bowl of <u>dust.</u>
+
+569
+00:02:14,379 --> 00:02:14,699
+[SPEAKER_01]: <u>Hello,</u> mate.
+
+570
+00:02:14,699 --> 00:02:14,739
+[SPEAKER_01]: Hello, mate.
+
+571
+00:02:14,739 --> 00:02:14,979
+[SPEAKER_01]: Hello, <u>mate.</u>
+
+572
+00:02:18,241 --> 00:02:18,521
+[SPEAKER_00]: <u>Widow</u> Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+573
+00:02:18,521 --> 00:02:18,561
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+574
+00:02:18,561 --> 00:02:19,041
+[SPEAKER_00]: Widow <u>Twankey</u> may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+575
+00:02:19,041 --> 00:02:19,081
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+576
+00:02:19,081 --> 00:02:19,201
+[SPEAKER_00]: Widow Twankey <u>may</u> have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+577
+00:02:19,201 --> 00:02:19,221
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+578
+00:02:19,221 --> 00:02:19,341
+[SPEAKER_00]: Widow Twankey may <u>have</u> been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+579
+00:02:19,341 --> 00:02:19,361
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+580
+00:02:19,361 --> 00:02:19,521
+[SPEAKER_00]: Widow Twankey may have <u>been</u> glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+581
+00:02:19,521 --> 00:02:19,561
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+582
+00:02:19,561 --> 00:02:19,821
+[SPEAKER_00]: Widow Twankey may have been <u>glad</u> to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+583
+00:02:19,821 --> 00:02:19,861
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+584
+00:02:19,861 --> 00:02:19,941
+[SPEAKER_00]: Widow Twankey may have been glad <u>to</u> see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+585
+00:02:19,941 --> 00:02:19,981
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+586
+00:02:19,981 --> 00:02:20,121
+[SPEAKER_00]: Widow Twankey may have been glad to <u>see</u> the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+587
+00:02:20,121 --> 00:02:20,141
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+588
+00:02:20,141 --> 00:02:20,201
+[SPEAKER_00]: Widow Twankey may have been glad to see <u>the</u> back of the salt pans, but despite this, they gave us a startling parting gift.
+
+589
+00:02:20,201 --> 00:02:20,241
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+590
+00:02:20,241 --> 00:02:20,421
+[SPEAKER_00]: Widow Twankey may have been glad to see the <u>back</u> of the salt pans, but despite this, they gave us a startling parting gift.
+
+591
+00:02:20,421 --> 00:02:20,461
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+592
+00:02:20,461 --> 00:02:20,521
+[SPEAKER_00]: Widow Twankey may have been glad to see the back <u>of</u> the salt pans, but despite this, they gave us a startling parting gift.
+
+593
+00:02:20,521 --> 00:02:20,541
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+594
+00:02:20,541 --> 00:02:20,601
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of <u>the</u> salt pans, but despite this, they gave us a startling parting gift.
+
+595
+00:02:20,601 --> 00:02:20,661
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+596
+00:02:20,661 --> 00:02:20,942
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the <u>salt</u> pans, but despite this, they gave us a startling parting gift.
+
+597
+00:02:20,942 --> 00:02:20,982
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+598
+00:02:20,982 --> 00:02:21,282
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt <u>pans,</u> but despite this, they gave us a startling parting gift.
+
+599
+00:02:21,282 --> 00:02:21,342
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+600
+00:02:21,342 --> 00:02:21,482
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, <u>but</u> despite this, they gave us a startling parting gift.
+
+601
+00:02:21,482 --> 00:02:21,522
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+602
+00:02:21,522 --> 00:02:22,022
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but <u>despite</u> this, they gave us a startling parting gift.
+
+603
+00:02:22,022 --> 00:02:22,062
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+604
+00:02:22,062 --> 00:02:22,302
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite <u>this,</u> they gave us a startling parting gift.
+
+605
+00:02:22,302 --> 00:02:22,862
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+606
+00:02:22,862 --> 00:02:23,022
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, <u>they</u> gave us a startling parting gift.
+
+607
+00:02:23,022 --> 00:02:23,062
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+608
+00:02:23,062 --> 00:02:23,262
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they <u>gave</u> us a startling parting gift.
+
+609
+00:02:23,262 --> 00:02:23,302
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+610
+00:02:23,302 --> 00:02:23,402
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave <u>us</u> a startling parting gift.
+
+611
+00:02:23,402 --> 00:02:23,442
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+612
+00:02:23,442 --> 00:02:23,482
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us <u>a</u> startling parting gift.
+
+613
+00:02:23,482 --> 00:02:23,702
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+614
+00:02:23,702 --> 00:02:24,343
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a <u>startling</u> parting gift.
+
+615
+00:02:24,343 --> 00:02:24,503
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+616
+00:02:24,503 --> 00:02:24,963
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling <u>parting</u> gift.
+
+617
+00:02:24,963 --> 00:02:25,123
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting gift.
+
+618
+00:02:25,123 --> 00:02:25,463
+[SPEAKER_00]: Widow Twankey may have been glad to see the back of the salt pans, but despite this, they gave us a startling parting <u>gift.</u>
+
+619
+00:02:29,264 --> 00:02:29,565
+[SPEAKER_00]: <u>Wow,</u> that is amazing.
+
+620
+00:02:29,565 --> 00:02:29,605
+[SPEAKER_00]: Wow, that is amazing.
+
+621
+00:02:29,605 --> 00:02:29,765
+[SPEAKER_00]: Wow, <u>that</u> is amazing.
+
+622
+00:02:29,765 --> 00:02:29,825
+[SPEAKER_00]: Wow, that is amazing.
+
+623
+00:02:29,825 --> 00:02:29,905
+[SPEAKER_00]: Wow, that <u>is</u> amazing.
+
+624
+00:02:29,905 --> 00:02:29,945
+[SPEAKER_00]: Wow, that is amazing.
+
+625
+00:02:29,945 --> 00:02:30,405
+[SPEAKER_00]: Wow, that is <u>amazing.</u>
+
+626
+00:02:31,246 --> 00:02:31,486
+[SPEAKER_00]: <u>That's</u> the moon.
+
+627
+00:02:31,486 --> 00:02:31,526
+[SPEAKER_00]: That's the moon.
+
+628
+00:02:31,526 --> 00:02:31,646
+[SPEAKER_00]: That's <u>the</u> moon.
+
+629
+00:02:31,646 --> 00:02:31,706
+[SPEAKER_00]: That's the moon.
+
+630
+00:02:31,706 --> 00:02:32,987
+[SPEAKER_00]: That's the <u>moon.</u>
+
+631
+00:02:33,007 --> 00:02:33,227
+[SPEAKER_00]: <u>Yeah,</u> that's the moon.
+
+632
+00:02:33,227 --> 00:02:33,287
+[SPEAKER_00]: Yeah, that's the moon.
+
+633
+00:02:33,287 --> 00:02:33,527
+[SPEAKER_00]: Yeah, <u>that's</u> the moon.
+
+634
+00:02:33,527 --> 00:02:33,567
+[SPEAKER_00]: Yeah, that's the moon.
+
+635
+00:02:33,567 --> 00:02:33,647
+[SPEAKER_00]: Yeah, that's <u>the</u> moon.
+
+636
+00:02:33,647 --> 00:02:33,687
+[SPEAKER_00]: Yeah, that's the moon.
+
+637
+00:02:33,687 --> 00:02:33,887
+[SPEAKER_00]: Yeah, that's the <u>moon.</u>
+
+638
+00:02:33,927 --> 00:02:34,227
+[SPEAKER_00]: <u>Because</u> of the dust from the pans, you get... A moonrise in orange.
+
+639
+00:02:34,227 --> 00:02:34,267
+[SPEAKER_00]: Because of the dust from the pans, you get... A moonrise in orange.
+
+640
+00:02:34,267 --> 00:02:34,327
+[SPEAKER_00]: Because <u>of</u> the dust from the pans, you get... A moonrise in orange.
+
+641
+00:02:34,327 --> 00:02:34,367
+[SPEAKER_00]: Because of the dust from the pans, you get... A moonrise in orange.
+
+642
+00:02:34,367 --> 00:02:34,447
+[SPEAKER_00]: Because of <u>the</u> dust from the pans, you get... A moonrise in orange.
+
+643
+00:02:34,447 --> 00:02:34,527
+[SPEAKER_00]: Because of the dust from the pans, you get... A moonrise in orange.
+
+644
+00:02:34,527 --> 00:02:34,847
+[SPEAKER_00]: Because of the <u>dust</u> from the pans, you get... A moonrise in orange.
+
+645
+00:02:34,847 --> 00:02:34,887
+[SPEAKER_00]: Because of the dust from the pans, you get... A moonrise in orange.
+
+646
+00:02:34,887 --> 00:02:35,047
+[SPEAKER_00]: Because of the dust <u>from</u> the pans, you get... A moonrise in orange.
+
+647
+00:02:35,047 --> 00:02:35,067
+[SPEAKER_00]: Because of the dust from the pans, you get... A moonrise in orange.
+
+648
+00:02:35,067 --> 00:02:35,127
+[SPEAKER_00]: Because of the dust from <u>the</u> pans, you get... A moonrise in orange.
+
+649
+00:02:35,127 --> 00:02:35,207
+[SPEAKER_00]: Because of the dust from the pans, you get... A moonrise in orange.
+
+650
+00:02:35,207 --> 00:02:35,647
+[SPEAKER_00]: Because of the dust from the <u>pans,</u> you get... A moonrise in orange.
+
+651
+00:02:35,647 --> 00:02:35,708
+[SPEAKER_00]: Because of the dust from the pans, you get... A moonrise in orange.
+
+652
+00:02:35,708 --> 00:02:35,908
+[SPEAKER_00]: Because of the dust from the pans, <u>you</u> get... A moonrise in orange.
+
+653
+00:02:35,908 --> 00:02:35,948
+[SPEAKER_00]: Because of the dust from the pans, you get... A moonrise in orange.
+
+654
+00:02:35,948 --> 00:02:36,208
+[SPEAKER_00]: Because of the dust from the pans, you <u>get...</u> A moonrise in orange.
+
+655
+00:02:36,208 --> 00:02:37,348
+[SPEAKER_00]: Because of the dust from the pans, you get... A moonrise in orange.
+
+656
+00:02:37,348 --> 00:02:37,428
+[SPEAKER_00]: Because of the dust from the pans, you get... <u>A</u> moonrise in orange.
+
+657
+00:02:37,428 --> 00:02:37,488
+[SPEAKER_00]: Because of the dust from the pans, you get... A moonrise in orange.
+
+658
+00:02:37,488 --> 00:02:38,088
+[SPEAKER_00]: Because of the dust from the pans, you get... A <u>moonrise</u> in orange.
+
+659
+00:02:38,088 --> 00:02:38,308
+[SPEAKER_00]: Because of the dust from the pans, you get... A moonrise in orange.
+
+660
+00:02:38,308 --> 00:02:38,448
+[SPEAKER_00]: Because of the dust from the pans, you get... A moonrise <u>in</u> orange.
+
+661
+00:02:38,448 --> 00:02:38,528
+[SPEAKER_00]: Because of the dust from the pans, you get... A moonrise in orange.
+
+662
+00:02:38,528 --> 00:02:38,889
+[SPEAKER_00]: Because of the dust from the pans, you get... A moonrise in <u>orange.</u>
+
+663
+00:02:39,789 --> 00:02:39,889
+[SPEAKER_01]: <u>I've</u> got goosebumps.
+
+664
+00:02:39,889 --> 00:02:39,929
+[SPEAKER_01]: I've got goosebumps.
+
+665
+00:02:39,929 --> 00:02:40,089
+[SPEAKER_01]: I've <u>got</u> goosebumps.
+
+666
+00:02:40,089 --> 00:02:40,129
+[SPEAKER_01]: I've got goosebumps.
+
+667
+00:02:40,129 --> 00:02:40,669
+[SPEAKER_01]: I've got <u>goosebumps.</u>
+
+668
+00:02:42,570 --> 00:02:42,610
+[SPEAKER_01]: <u>I</u> know a Philip Larkin poem about the moon.
+
+669
+00:02:42,610 --> 00:02:42,650
+[SPEAKER_01]: I know a Philip Larkin poem about the moon.
+
+670
+00:02:42,650 --> 00:02:42,770
+[SPEAKER_01]: I <u>know</u> a Philip Larkin poem about the moon.
+
+671
+00:02:42,770 --> 00:02:42,790
+[SPEAKER_01]: I know a Philip Larkin poem about the moon.
+
+672
+00:02:42,790 --> 00:02:42,850
+[SPEAKER_01]: I know <u>a</u> Philip Larkin poem about the moon.
+
+673
+00:02:42,850 --> 00:02:42,890
+[SPEAKER_01]: I know a Philip Larkin poem about the moon.
+
+674
+00:02:42,890 --> 00:02:43,130
+[SPEAKER_01]: I know a <u>Philip</u> Larkin poem about the moon.
+
+675
+00:02:43,130 --> 00:02:43,170
+[SPEAKER_01]: I know a Philip Larkin poem about the moon.
+
+676
+00:02:43,170 --> 00:02:43,590
+[SPEAKER_01]: I know a Philip <u>Larkin</u> poem about the moon.
+
+677
+00:02:43,590 --> 00:02:43,630
+[SPEAKER_01]: I know a Philip Larkin poem about the moon.
+
+678
+00:02:43,630 --> 00:02:43,930
+[SPEAKER_01]: I know a Philip Larkin <u>poem</u> about the moon.
+
+679
+00:02:43,930 --> 00:02:43,990
+[SPEAKER_01]: I know a Philip Larkin poem about the moon.
+
+680
+00:02:43,990 --> 00:02:44,170
+[SPEAKER_01]: I know a Philip Larkin poem <u>about</u> the moon.
+
+681
+00:02:44,170 --> 00:02:44,190
+[SPEAKER_01]: I know a Philip Larkin poem about the moon.
+
+682
+00:02:44,190 --> 00:02:44,250
+[SPEAKER_01]: I know a Philip Larkin poem about <u>the</u> moon.
+
+683
+00:02:44,250 --> 00:02:44,290
+[SPEAKER_01]: I know a Philip Larkin poem about the moon.
+
+684
+00:02:44,290 --> 00:02:44,370
+[SPEAKER_01]: I know a Philip Larkin poem about the <u>moon.</u>
+
+685
+00:02:44,390 --> 00:02:44,490
+[SPEAKER_01]: <u>Would</u> you like to hear it?
+
+686
+00:02:44,490 --> 00:02:44,731
+[SPEAKER_01]: Would you like to hear it?
+
+687
+00:02:44,731 --> 00:02:44,791
+[SPEAKER_01]: Would <u>you</u> like to hear it?
+
+688
+00:02:44,791 --> 00:02:44,811
+[SPEAKER_01]: Would you like to hear it?
+
+689
+00:02:44,811 --> 00:02:44,991
+[SPEAKER_01]: Would you <u>like</u> to hear it?
+
+690
+00:02:44,991 --> 00:02:45,011
+[SPEAKER_01]: Would you like to hear it?
+
+691
+00:02:45,011 --> 00:02:45,051
+[SPEAKER_01]: Would you like <u>to</u> hear it?
+
+692
+00:02:45,051 --> 00:02:45,091
+[SPEAKER_01]: Would you like to hear it?
+
+693
+00:02:45,091 --> 00:02:45,251
+[SPEAKER_01]: Would you like to <u>hear</u> it?
+
+694
+00:02:45,251 --> 00:02:45,291
+[SPEAKER_01]: Would you like to hear it?
+
+695
+00:02:45,291 --> 00:02:45,371
+[SPEAKER_01]: Would you like to hear <u>it?</u>
+
+696
+00:02:45,451 --> 00:02:45,651
+[SPEAKER_01]: <u>No.</u>
+
+697
+00:02:51,093 --> 00:02:51,173
+[SPEAKER_00]: <u>As</u> a new day dawned, our cars looked like wrecks.
+
+698
+00:02:51,173 --> 00:02:51,253
+[SPEAKER_00]: As a new day dawned, our cars looked like wrecks.
+
+699
+00:02:51,253 --> 00:02:51,293
+[SPEAKER_00]: As <u>a</u> new day dawned, our cars looked like wrecks.
+
+700
+00:02:51,293 --> 00:02:51,353
+[SPEAKER_00]: As a new day dawned, our cars looked like wrecks.
+
+701
+00:02:51,353 --> 00:02:51,533
+[SPEAKER_00]: As a <u>new</u> day dawned, our cars looked like wrecks.
+
+702
+00:02:51,533 --> 00:02:51,573
+[SPEAKER_00]: As a new day dawned, our cars looked like wrecks.
+
+703
+00:02:51,573 --> 00:02:51,793
+[SPEAKER_00]: As a new <u>day</u> dawned, our cars looked like wrecks.
+
+704
+00:02:51,793 --> 00:02:51,833
+[SPEAKER_00]: As a new day dawned, our cars looked like wrecks.
+
+705
+00:02:51,833 --> 00:02:52,213
+[SPEAKER_00]: As a new day <u>dawned,</u> our cars looked like wrecks.
+
+706
+00:02:52,213 --> 00:02:52,333
+[SPEAKER_00]: As a new day dawned, our cars looked like wrecks.
+
+707
+00:02:52,333 --> 00:02:52,453
+[SPEAKER_00]: As a new day dawned, <u>our</u> cars looked like wrecks.
+
+708
+00:02:52,453 --> 00:02:52,513
+[SPEAKER_00]: As a new day dawned, our cars looked like wrecks.
+
+709
+00:02:52,513 --> 00:02:52,933
+[SPEAKER_00]: As a new day dawned, our <u>cars</u> looked like wrecks.
+
+710
+00:02:52,933 --> 00:02:53,033
+[SPEAKER_00]: As a new day dawned, our cars looked like wrecks.
+
+711
+00:02:53,033 --> 00:02:53,333
+[SPEAKER_00]: As a new day dawned, our cars <u>looked</u> like wrecks.
+
+712
+00:02:53,333 --> 00:02:53,574
+[SPEAKER_00]: As a new day dawned, our cars looked like wrecks.
+
+713
+00:02:53,574 --> 00:02:53,794
+[SPEAKER_00]: As a new day dawned, our cars looked <u>like</u> wrecks.
+
+714
+00:02:53,794 --> 00:02:53,814
+[SPEAKER_00]: As a new day dawned, our cars looked like wrecks.
+
+715
+00:02:53,814 --> 00:02:54,294
+[SPEAKER_00]: As a new day dawned, our cars looked like <u>wrecks.</u>
+
+716
+00:02:55,594 --> 00:02:55,734
+[SPEAKER_00]: <u>But</u> their ordeal was far from over.
+
+717
+00:02:55,734 --> 00:02:55,754
+[SPEAKER_00]: But their ordeal was far from over.
+
+718
+00:02:55,754 --> 00:02:55,954
+[SPEAKER_00]: But <u>their</u> ordeal was far from over.
+
+719
+00:02:55,954 --> 00:02:56,054
+[SPEAKER_00]: But their ordeal was far from over.
+
+720
+00:02:56,054 --> 00:02:56,494
+[SPEAKER_00]: But their <u>ordeal</u> was far from over.
+
+721
+00:02:56,494 --> 00:02:56,555
+[SPEAKER_00]: But their ordeal was far from over.
+
+722
+00:02:56,555 --> 00:02:56,695
+[SPEAKER_00]: But their ordeal <u>was</u> far from over.
+
+723
+00:02:56,695 --> 00:02:56,855
+[SPEAKER_00]: But their ordeal was far from over.
+
+724
+00:02:56,855 --> 00:02:57,155
+[SPEAKER_00]: But their ordeal was <u>far</u> from over.
+
+725
+00:02:57,155 --> 00:02:57,215
+[SPEAKER_00]: But their ordeal was far from over.
+
+726
+00:02:57,215 --> 00:02:57,395
+[SPEAKER_00]: But their ordeal was far <u>from</u> over.
+
+727
+00:02:57,395 --> 00:02:57,515
+[SPEAKER_00]: But their ordeal was far from over.
+
+728
+00:02:57,515 --> 00:02:57,755
+[SPEAKER_00]: But their ordeal was far from <u>over.</u>
+
+729
+00:03:00,399 --> 00:03:00,659
+[SPEAKER_00]: <u>Yes,</u> we had crossed the salt pans, but we were still only a third of the way across Botswana.
+
+730
+00:03:00,659 --> 00:03:01,100
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third of the way across Botswana.
+
+731
+00:03:01,100 --> 00:03:01,200
+[SPEAKER_00]: Yes, <u>we</u> had crossed the salt pans, but we were still only a third of the way across Botswana.
+
+732
+00:03:01,200 --> 00:03:01,240
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third of the way across Botswana.
+
+733
+00:03:01,240 --> 00:03:01,360
+[SPEAKER_00]: Yes, we <u>had</u> crossed the salt pans, but we were still only a third of the way across Botswana.
+
+734
+00:03:01,360 --> 00:03:01,420
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third of the way across Botswana.
+
+735
+00:03:01,420 --> 00:03:01,760
+[SPEAKER_00]: Yes, we had <u>crossed</u> the salt pans, but we were still only a third of the way across Botswana.
+
+736
+00:03:01,760 --> 00:03:01,820
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third of the way across Botswana.
+
+737
+00:03:01,820 --> 00:03:01,920
+[SPEAKER_00]: Yes, we had crossed <u>the</u> salt pans, but we were still only a third of the way across Botswana.
+
+738
+00:03:01,920 --> 00:03:01,960
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third of the way across Botswana.
+
+739
+00:03:01,960 --> 00:03:02,221
+[SPEAKER_00]: Yes, we had crossed the <u>salt</u> pans, but we were still only a third of the way across Botswana.
+
+740
+00:03:02,221 --> 00:03:02,261
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third of the way across Botswana.
+
+741
+00:03:02,261 --> 00:03:02,601
+[SPEAKER_00]: Yes, we had crossed the salt <u>pans,</u> but we were still only a third of the way across Botswana.
+
+742
+00:03:02,601 --> 00:03:02,701
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third of the way across Botswana.
+
+743
+00:03:02,701 --> 00:03:02,821
+[SPEAKER_00]: Yes, we had crossed the salt pans, <u>but</u> we were still only a third of the way across Botswana.
+
+744
+00:03:02,821 --> 00:03:02,841
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third of the way across Botswana.
+
+745
+00:03:02,841 --> 00:03:02,941
+[SPEAKER_00]: Yes, we had crossed the salt pans, but <u>we</u> were still only a third of the way across Botswana.
+
+746
+00:03:02,941 --> 00:03:02,961
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third of the way across Botswana.
+
+747
+00:03:02,961 --> 00:03:03,101
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we <u>were</u> still only a third of the way across Botswana.
+
+748
+00:03:03,101 --> 00:03:03,121
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third of the way across Botswana.
+
+749
+00:03:03,121 --> 00:03:03,341
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were <u>still</u> only a third of the way across Botswana.
+
+750
+00:03:03,341 --> 00:03:03,402
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third of the way across Botswana.
+
+751
+00:03:03,402 --> 00:03:03,622
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still <u>only</u> a third of the way across Botswana.
+
+752
+00:03:03,622 --> 00:03:03,642
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third of the way across Botswana.
+
+753
+00:03:03,642 --> 00:03:03,662
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only <u>a</u> third of the way across Botswana.
+
+754
+00:03:03,662 --> 00:03:03,802
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third of the way across Botswana.
+
+755
+00:03:03,802 --> 00:03:04,042
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a <u>third</u> of the way across Botswana.
+
+756
+00:03:04,042 --> 00:03:04,062
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third of the way across Botswana.
+
+757
+00:03:04,062 --> 00:03:04,122
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third <u>of</u> the way across Botswana.
+
+758
+00:03:04,122 --> 00:03:04,162
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third of the way across Botswana.
+
+759
+00:03:04,162 --> 00:03:04,222
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third of <u>the</u> way across Botswana.
+
+760
+00:03:04,222 --> 00:03:04,282
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third of the way across Botswana.
+
+761
+00:03:04,282 --> 00:03:04,522
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third of the <u>way</u> across Botswana.
+
+762
+00:03:04,522 --> 00:03:04,542
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third of the way across Botswana.
+
+763
+00:03:04,542 --> 00:03:04,843
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third of the way <u>across</u> Botswana.
+
+764
+00:03:04,843 --> 00:03:04,903
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third of the way across Botswana.
+
+765
+00:03:04,903 --> 00:03:05,583
+[SPEAKER_00]: Yes, we had crossed the salt pans, but we were still only a third of the way across <u>Botswana.</u>
+
+766
+00:03:06,184 --> 00:03:06,284
+[SPEAKER_00]: <u>And</u> now we were about to enter the Kalahari.
+
+767
+00:03:06,284 --> 00:03:06,404
+[SPEAKER_00]: And now we were about to enter the Kalahari.
+
+768
+00:03:06,404 --> 00:03:06,704
+[SPEAKER_00]: And <u>now</u> we were about to enter the Kalahari.
+
+769
+00:03:06,704 --> 00:03:07,225
+[SPEAKER_00]: And now we were about to enter the Kalahari.
+
+770
+00:03:07,225 --> 00:03:07,345
+[SPEAKER_00]: And now <u>we</u> were about to enter the Kalahari.
+
+771
+00:03:07,345 --> 00:03:07,365
+[SPEAKER_00]: And now we were about to enter the Kalahari.
+
+772
+00:03:07,365 --> 00:03:07,525
+[SPEAKER_00]: And now we <u>were</u> about to enter the Kalahari.
+
+773
+00:03:07,525 --> 00:03:07,565
+[SPEAKER_00]: And now we were about to enter the Kalahari.
+
+774
+00:03:07,565 --> 00:03:07,785
+[SPEAKER_00]: And now we were <u>about</u> to enter the Kalahari.
+
+775
+00:03:07,785 --> 00:03:07,825
+[SPEAKER_00]: And now we were about to enter the Kalahari.
+
+776
+00:03:07,825 --> 00:03:07,925
+[SPEAKER_00]: And now we were about <u>to</u> enter the Kalahari.
+
+777
+00:03:07,925 --> 00:03:08,005
+[SPEAKER_00]: And now we were about to enter the Kalahari.
+
+778
+00:03:08,005 --> 00:03:08,225
+[SPEAKER_00]: And now we were about to <u>enter</u> the Kalahari.
+
+779
+00:03:08,225 --> 00:03:08,245
+[SPEAKER_00]: And now we were about to enter the Kalahari.
+
+780
+00:03:08,245 --> 00:03:08,346
+[SPEAKER_00]: And now we were about to enter <u>the</u> Kalahari.
+
+781
+00:03:08,346 --> 00:03:08,446
+[SPEAKER_00]: And now we were about to enter the Kalahari.
+
+782
+00:03:08,446 --> 00:03:10,167
+[SPEAKER_00]: And now we were about to enter the <u>Kalahari.</u>
+
+783
+00:03:17,873 --> 00:03:18,554
+[SPEAKER_00]: <u>Kalahari.</u>
+
+784
+00:03:20,615 --> 00:03:20,976
+[SPEAKER_00]: <u>Everyone</u> who comes to the Kalahari takes away a different memory of it.
+
+785
+00:03:20,976 --> 00:03:21,016
+[SPEAKER_00]: Everyone who comes to the Kalahari takes away a different memory of it.
+
+786
+00:03:21,016 --> 00:03:21,136
+[SPEAKER_00]: Everyone <u>who</u> comes to the Kalahari takes away a different memory of it.
+
+787
+00:03:21,136 --> 00:03:21,176
+[SPEAKER_00]: Everyone who comes to the Kalahari takes away a different memory of it.
+
+788
+00:03:21,176 --> 00:03:21,416
+[SPEAKER_00]: Everyone who <u>comes</u> to the Kalahari takes away a different memory of it.
+
+789
+00:03:21,416 --> 00:03:21,436
+[SPEAKER_00]: Everyone who comes to the Kalahari takes away a different memory of it.
+
+790
+00:03:21,436 --> 00:03:21,496
+[SPEAKER_00]: Everyone who comes <u>to</u> the Kalahari takes away a different memory of it.
+
+791
+00:03:21,496 --> 00:03:21,556
+[SPEAKER_00]: Everyone who comes to the Kalahari takes away a different memory of it.
+
+792
+00:03:21,556 --> 00:03:21,616
+[SPEAKER_00]: Everyone who comes to <u>the</u> Kalahari takes away a different memory of it.
+
+793
+00:03:21,616 --> 00:03:21,656
+[SPEAKER_00]: Everyone who comes to the Kalahari takes away a different memory of it.
+
+794
+00:03:21,656 --> 00:03:22,177
+[SPEAKER_00]: Everyone who comes to the <u>Kalahari</u> takes away a different memory of it.
+
+795
+00:03:22,177 --> 00:03:22,197
+[SPEAKER_00]: Everyone who comes to the Kalahari takes away a different memory of it.
+
+796
+00:03:22,197 --> 00:03:22,417
+[SPEAKER_00]: Everyone who comes to the Kalahari <u>takes</u> away a different memory of it.
+
+797
+00:03:22,417 --> 00:03:22,477
+[SPEAKER_00]: Everyone who comes to the Kalahari takes away a different memory of it.
+
+798
+00:03:22,477 --> 00:03:22,677
+[SPEAKER_00]: Everyone who comes to the Kalahari takes <u>away</u> a different memory of it.
+
+799
+00:03:22,677 --> 00:03:22,717
+[SPEAKER_00]: Everyone who comes to the Kalahari takes away a different memory of it.
+
+800
+00:03:22,717 --> 00:03:22,777
+[SPEAKER_00]: Everyone who comes to the Kalahari takes away <u>a</u> different memory of it.
+
+801
+00:03:22,777 --> 00:03:22,817
+[SPEAKER_00]: Everyone who comes to the Kalahari takes away a different memory of it.
+
+802
+00:03:22,817 --> 00:03:23,158
+[SPEAKER_00]: Everyone who comes to the Kalahari takes away a <u>different</u> memory of it.
+
+803
+00:03:23,158 --> 00:03:23,278
+[SPEAKER_00]: Everyone who comes to the Kalahari takes away a different memory of it.
+
+804
+00:03:23,278 --> 00:03:23,658
+[SPEAKER_00]: Everyone who comes to the Kalahari takes away a different <u>memory</u> of it.
+
+805
+00:03:23,658 --> 00:03:23,698
+[SPEAKER_00]: Everyone who comes to the Kalahari takes away a different memory of it.
+
+806
+00:03:23,698 --> 00:03:23,798
+[SPEAKER_00]: Everyone who comes to the Kalahari takes away a different memory <u>of</u> it.
+
+807
+00:03:23,798 --> 00:03:23,878
+[SPEAKER_00]: Everyone who comes to the Kalahari takes away a different memory of it.
+
+808
+00:03:23,878 --> 00:03:24,038
+[SPEAKER_00]: Everyone who comes to the Kalahari takes away a different memory of <u>it.</u>
+
+809
+00:03:24,298 --> 00:03:24,919
+[SPEAKER_00]: <u>Savagery,</u> the simplicity, the vast heat.
+
+810
+00:03:24,919 --> 00:03:24,939
+[SPEAKER_00]: Savagery, the simplicity, the vast heat.
+
+811
+00:03:24,939 --> 00:03:25,179
+[SPEAKER_00]: Savagery, <u>the</u> simplicity, the vast heat.
+
+812
+00:03:25,179 --> 00:03:25,359
+[SPEAKER_00]: Savagery, the simplicity, the vast heat.
+
+813
+00:03:25,359 --> 00:03:26,160
+[SPEAKER_00]: Savagery, the <u>simplicity,</u> the vast heat.
+
+814
+00:03:26,160 --> 00:03:27,121
+[SPEAKER_00]: Savagery, the simplicity, the vast heat.
+
+815
+00:03:27,121 --> 00:03:27,221
+[SPEAKER_00]: Savagery, the simplicity, <u>the</u> vast heat.
+
+816
+00:03:27,221 --> 00:03:27,261
+[SPEAKER_00]: Savagery, the simplicity, the vast heat.
+
+817
+00:03:27,261 --> 00:03:27,521
+[SPEAKER_00]: Savagery, the simplicity, the <u>vast</u> heat.
+
+818
+00:03:27,521 --> 00:03:27,561
+[SPEAKER_00]: Savagery, the simplicity, the vast heat.
+
+819
+00:03:27,561 --> 00:03:27,841
+[SPEAKER_00]: Savagery, the simplicity, the vast <u>heat.</u>
+
+820
+00:03:28,102 --> 00:03:28,342
+[SPEAKER_00]: <u>Me,</u> I think bumpiness.
+
+821
+00:03:28,342 --> 00:03:28,542
+[SPEAKER_00]: Me, I think bumpiness.
+
+822
+00:03:28,542 --> 00:03:28,642
+[SPEAKER_00]: Me, <u>I</u> think bumpiness.
+
+823
+00:03:28,642 --> 00:03:28,682
+[SPEAKER_00]: Me, I think bumpiness.
+
+824
+00:03:28,682 --> 00:03:28,962
+[SPEAKER_00]: Me, I <u>think</u> bumpiness.
+
+825
+00:03:28,962 --> 00:03:29,122
+[SPEAKER_00]: Me, I think bumpiness.
+
+826
+00:03:29,122 --> 00:03:29,663
+[SPEAKER_00]: Me, I think <u>bumpiness.</u>
+
+827
+00:03:31,494 --> 00:03:31,574
+[SPEAKER_00]: <u>It</u> was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+828
+00:03:31,574 --> 00:03:31,634
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+829
+00:03:31,634 --> 00:03:31,855
+[SPEAKER_00]: It <u>was</u> as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+830
+00:03:31,855 --> 00:03:31,935
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+831
+00:03:31,935 --> 00:03:32,015
+[SPEAKER_00]: It was <u>as</u> rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+832
+00:03:32,015 --> 00:03:32,195
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+833
+00:03:32,195 --> 00:03:32,415
+[SPEAKER_00]: It was as <u>rough</u> as hell, so we were glad when news came through that we were to stop at the next village.
+
+834
+00:03:32,415 --> 00:03:32,475
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+835
+00:03:32,475 --> 00:03:32,575
+[SPEAKER_00]: It was as rough <u>as</u> hell, so we were glad when news came through that we were to stop at the next village.
+
+836
+00:03:32,575 --> 00:03:32,635
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+837
+00:03:32,635 --> 00:03:32,956
+[SPEAKER_00]: It was as rough as <u>hell,</u> so we were glad when news came through that we were to stop at the next village.
+
+838
+00:03:32,956 --> 00:03:33,056
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+839
+00:03:33,056 --> 00:03:33,196
+[SPEAKER_00]: It was as rough as hell, <u>so</u> we were glad when news came through that we were to stop at the next village.
+
+840
+00:03:33,196 --> 00:03:33,256
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+841
+00:03:33,256 --> 00:03:33,356
+[SPEAKER_00]: It was as rough as hell, so <u>we</u> were glad when news came through that we were to stop at the next village.
+
+842
+00:03:33,356 --> 00:03:33,396
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+843
+00:03:33,396 --> 00:03:33,536
+[SPEAKER_00]: It was as rough as hell, so we <u>were</u> glad when news came through that we were to stop at the next village.
+
+844
+00:03:33,536 --> 00:03:33,576
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+845
+00:03:33,576 --> 00:03:33,877
+[SPEAKER_00]: It was as rough as hell, so we were <u>glad</u> when news came through that we were to stop at the next village.
+
+846
+00:03:33,877 --> 00:03:33,937
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+847
+00:03:33,937 --> 00:03:34,097
+[SPEAKER_00]: It was as rough as hell, so we were glad <u>when</u> news came through that we were to stop at the next village.
+
+848
+00:03:34,097 --> 00:03:34,177
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+849
+00:03:34,177 --> 00:03:34,437
+[SPEAKER_00]: It was as rough as hell, so we were glad when <u>news</u> came through that we were to stop at the next village.
+
+850
+00:03:34,437 --> 00:03:34,497
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+851
+00:03:34,497 --> 00:03:34,718
+[SPEAKER_00]: It was as rough as hell, so we were glad when news <u>came</u> through that we were to stop at the next village.
+
+852
+00:03:34,718 --> 00:03:34,798
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+853
+00:03:34,798 --> 00:03:35,038
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came <u>through</u> that we were to stop at the next village.
+
+854
+00:03:35,038 --> 00:03:35,078
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+855
+00:03:35,078 --> 00:03:35,198
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through <u>that</u> we were to stop at the next village.
+
+856
+00:03:35,198 --> 00:03:35,218
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+857
+00:03:35,218 --> 00:03:35,298
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that <u>we</u> were to stop at the next village.
+
+858
+00:03:35,298 --> 00:03:35,318
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+859
+00:03:35,318 --> 00:03:35,458
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we <u>were</u> to stop at the next village.
+
+860
+00:03:35,458 --> 00:03:35,478
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+861
+00:03:35,478 --> 00:03:35,578
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were <u>to</u> stop at the next village.
+
+862
+00:03:35,578 --> 00:03:35,659
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+863
+00:03:35,659 --> 00:03:35,979
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to <u>stop</u> at the next village.
+
+864
+00:03:35,979 --> 00:03:36,419
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+865
+00:03:36,419 --> 00:03:36,499
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop <u>at</u> the next village.
+
+866
+00:03:36,499 --> 00:03:36,519
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+867
+00:03:36,519 --> 00:03:36,620
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at <u>the</u> next village.
+
+868
+00:03:36,620 --> 00:03:36,680
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+869
+00:03:36,680 --> 00:03:36,900
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the <u>next</u> village.
+
+870
+00:03:36,900 --> 00:03:37,080
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next village.
+
+871
+00:03:37,080 --> 00:03:37,521
+[SPEAKER_00]: It was as rough as hell, so we were glad when news came through that we were to stop at the next <u>village.</u>
+
+872
+00:03:40,063 --> 00:03:46,090
+[SPEAKER_02]: <u>Obviously,</u> they recognise a truly classy car.
+
+873
+00:03:46,090 --> 00:03:49,914
+[SPEAKER_02]: Obviously, they recognise a truly classy car.
+
+874
+00:03:49,914 --> 00:03:50,114
+[SPEAKER_02]: Obviously, <u>they</u> recognise a truly classy car.
+
+875
+00:03:50,114 --> 00:03:50,154
+[SPEAKER_02]: Obviously, they recognise a truly classy car.
+
+876
+00:03:50,154 --> 00:03:50,614
+[SPEAKER_02]: Obviously, they <u>recognise</u> a truly classy car.
+
+877
+00:03:50,614 --> 00:03:51,575
+[SPEAKER_02]: Obviously, they recognise a truly classy car.
+
+878
+00:03:51,575 --> 00:03:51,655
+[SPEAKER_02]: Obviously, they recognise <u>a</u> truly classy car.
+
+879
+00:03:51,655 --> 00:03:51,696
+[SPEAKER_02]: Obviously, they recognise a truly classy car.
+
+880
+00:03:51,696 --> 00:03:51,976
+[SPEAKER_02]: Obviously, they recognise a <u>truly</u> classy car.
+
+881
+00:03:51,976 --> 00:03:52,016
+[SPEAKER_02]: Obviously, they recognise a truly classy car.
+
+882
+00:03:52,016 --> 00:03:52,456
+[SPEAKER_02]: Obviously, they recognise a truly <u>classy</u> car.
+
+883
+00:03:52,456 --> 00:03:52,496
+[SPEAKER_02]: Obviously, they recognise a truly classy car.
+
+884
+00:03:52,496 --> 00:03:52,697
+[SPEAKER_02]: Obviously, they recognise a truly classy <u>car.</u>
+
+885
+00:03:56,570 --> 00:03:56,790
+[SPEAKER_00]: <u>What</u> could they possibly have in mind for us here?
+
+886
+00:03:56,790 --> 00:03:56,891
+[SPEAKER_00]: What could they possibly have in mind for us here?
+
+887
+00:03:56,891 --> 00:03:57,071
+[SPEAKER_00]: What <u>could</u> they possibly have in mind for us here?
+
+888
+00:03:57,071 --> 00:03:57,111
+[SPEAKER_00]: What could they possibly have in mind for us here?
+
+889
+00:03:57,111 --> 00:03:57,331
+[SPEAKER_00]: What could <u>they</u> possibly have in mind for us here?
+
+890
+00:03:57,331 --> 00:03:57,532
+[SPEAKER_00]: What could they possibly have in mind for us here?
+
+891
+00:03:57,532 --> 00:03:58,213
+[SPEAKER_00]: What could they <u>possibly</u> have in mind for us here?
+
+892
+00:03:58,213 --> 00:03:58,473
+[SPEAKER_00]: What could they possibly have in mind for us here?
+
+893
+00:03:58,473 --> 00:03:58,633
+[SPEAKER_00]: What could they possibly <u>have</u> in mind for us here?
+
+894
+00:03:58,633 --> 00:03:58,693
+[SPEAKER_00]: What could they possibly have in mind for us here?
+
+895
+00:03:58,693 --> 00:03:58,773
+[SPEAKER_00]: What could they possibly have <u>in</u> mind for us here?
+
+896
+00:03:58,773 --> 00:03:58,833
+[SPEAKER_00]: What could they possibly have in mind for us here?
+
+897
+00:03:58,833 --> 00:03:59,154
+[SPEAKER_00]: What could they possibly have in <u>mind</u> for us here?
+
+898
+00:03:59,154 --> 00:03:59,254
+[SPEAKER_00]: What could they possibly have in mind for us here?
+
+899
+00:03:59,254 --> 00:03:59,474
+[SPEAKER_00]: What could they possibly have in mind <u>for</u> us here?
+
+900
+00:03:59,474 --> 00:03:59,535
+[SPEAKER_00]: What could they possibly have in mind for us here?
+
+901
+00:03:59,535 --> 00:03:59,655
+[SPEAKER_00]: What could they possibly have in mind for <u>us</u> here?
+
+902
+00:03:59,655 --> 00:03:59,715
+[SPEAKER_00]: What could they possibly have in mind for us here?
+
+903
+00:03:59,715 --> 00:03:59,955
+[SPEAKER_00]: What could they possibly have in mind for us <u>here?</u>
+
+904
+00:04:05,123 --> 00:04:05,183
+[SPEAKER_00]: <u>It</u> was another challenge.
+
+905
+00:04:05,183 --> 00:04:05,223
+[SPEAKER_00]: It was another challenge.
+
+906
+00:04:05,223 --> 00:04:05,343
+[SPEAKER_00]: It <u>was</u> another challenge.
+
+907
+00:04:05,343 --> 00:04:05,423
+[SPEAKER_00]: It was another challenge.
+
+908
+00:04:05,423 --> 00:04:05,724
+[SPEAKER_00]: It was <u>another</u> challenge.
+
+909
+00:04:05,724 --> 00:04:05,804
+[SPEAKER_00]: It was another challenge.
+
+910
+00:04:05,804 --> 00:04:06,365
+[SPEAKER_00]: It was another <u>challenge.</u>
+
+911
+00:04:07,106 --> 00:04:07,547
+[SPEAKER_02]: <u>Hello.</u>
+
+912
+00:04:08,468 --> 00:04:08,648
+[SPEAKER_00]: <u>Here</u> it is.
+
+913
+00:04:08,648 --> 00:04:08,688
+[SPEAKER_00]: Here it is.
+
+914
+00:04:08,688 --> 00:04:08,748
+[SPEAKER_00]: Here <u>it</u> is.
+
+915
+00:04:08,748 --> 00:04:08,788
+[SPEAKER_00]: Here it is.
+
+916
+00:04:08,788 --> 00:04:08,848
+[SPEAKER_00]: Here it <u>is.</u>
+
+917
+00:04:10,922 --> 00:04:11,102
+[SPEAKER_00]: <u>Your</u> cars have travelled far and suffered much.
+
+918
+00:04:11,102 --> 00:04:11,142
+[SPEAKER_00]: Your cars have travelled far and suffered much.
+
+919
+00:04:11,142 --> 00:04:11,462
+[SPEAKER_00]: Your <u>cars</u> have travelled far and suffered much.
+
+920
+00:04:11,462 --> 00:04:11,482
+[SPEAKER_00]: Your cars have travelled far and suffered much.
+
+921
+00:04:11,482 --> 00:04:11,602
+[SPEAKER_00]: Your cars <u>have</u> travelled far and suffered much.
+
+922
+00:04:11,602 --> 00:04:11,662
+[SPEAKER_00]: Your cars have travelled far and suffered much.
+
+923
+00:04:11,662 --> 00:04:12,042
+[SPEAKER_00]: Your cars have <u>travelled</u> far and suffered much.
+
+924
+00:04:12,042 --> 00:04:12,122
+[SPEAKER_00]: Your cars have travelled far and suffered much.
+
+925
+00:04:12,122 --> 00:04:12,443
+[SPEAKER_00]: Your cars have travelled <u>far</u> and suffered much.
+
+926
+00:04:12,443 --> 00:04:12,523
+[SPEAKER_00]: Your cars have travelled far and suffered much.
+
+927
+00:04:12,523 --> 00:04:12,623
+[SPEAKER_00]: Your cars have travelled far <u>and</u> suffered much.
+
+928
+00:04:12,623 --> 00:04:12,703
+[SPEAKER_00]: Your cars have travelled far and suffered much.
+
+929
+00:04:12,703 --> 00:04:13,003
+[SPEAKER_00]: Your cars have travelled far and <u>suffered</u> much.
+
+930
+00:04:13,003 --> 00:04:13,043
+[SPEAKER_00]: Your cars have travelled far and suffered much.
+
+931
+00:04:13,043 --> 00:04:13,363
+[SPEAKER_00]: Your cars have travelled far and suffered <u>much.</u>
+
+932
+00:04:13,383 --> 00:04:13,523
+[SPEAKER_00]: <u>Yes,</u> they have.
+
+933
+00:04:13,523 --> 00:04:13,543
+[SPEAKER_00]: Yes, they have.
+
+934
+00:04:13,543 --> 00:04:13,683
+[SPEAKER_00]: Yes, <u>they</u> have.
+
+935
+00:04:13,683 --> 00:04:13,723
+[SPEAKER_00]: Yes, they have.
+
+936
+00:04:13,723 --> 00:04:13,903
+[SPEAKER_00]: Yes, they <u>have.</u>
+
+937
+00:04:14,543 --> 00:04:14,683
+[SPEAKER_00]: <u>So</u> we will now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+938
+00:04:14,683 --> 00:04:14,703
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+939
+00:04:14,703 --> 00:04:14,803
+[SPEAKER_00]: So <u>we</u> will now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+940
+00:04:14,803 --> 00:04:14,823
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+941
+00:04:14,823 --> 00:04:14,983
+[SPEAKER_00]: So we <u>will</u> now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+942
+00:04:14,983 --> 00:04:15,023
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+943
+00:04:15,023 --> 00:04:15,163
+[SPEAKER_00]: So we will <u>now</u> discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+944
+00:04:15,163 --> 00:04:15,223
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+945
+00:04:15,223 --> 00:04:15,704
+[SPEAKER_00]: So we will now <u>discover</u> how much performance they've lost in a competition against the clock on a rally special stage.
+
+946
+00:04:15,704 --> 00:04:15,764
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+947
+00:04:15,764 --> 00:04:15,904
+[SPEAKER_00]: So we will now discover <u>how</u> much performance they've lost in a competition against the clock on a rally special stage.
+
+948
+00:04:15,904 --> 00:04:15,944
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+949
+00:04:15,944 --> 00:04:16,104
+[SPEAKER_00]: So we will now discover how <u>much</u> performance they've lost in a competition against the clock on a rally special stage.
+
+950
+00:04:16,104 --> 00:04:16,164
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+951
+00:04:16,164 --> 00:04:16,664
+[SPEAKER_00]: So we will now discover how much <u>performance</u> they've lost in a competition against the clock on a rally special stage.
+
+952
+00:04:16,664 --> 00:04:16,724
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+953
+00:04:16,724 --> 00:04:16,964
+[SPEAKER_00]: So we will now discover how much performance <u>they've</u> lost in a competition against the clock on a rally special stage.
+
+954
+00:04:16,964 --> 00:04:17,044
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+955
+00:04:17,044 --> 00:04:17,424
+[SPEAKER_00]: So we will now discover how much performance they've <u>lost</u> in a competition against the clock on a rally special stage.
+
+956
+00:04:17,424 --> 00:04:17,964
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+957
+00:04:17,964 --> 00:04:18,044
+[SPEAKER_00]: So we will now discover how much performance they've lost <u>in</u> a competition against the clock on a rally special stage.
+
+958
+00:04:18,044 --> 00:04:18,084
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+959
+00:04:18,084 --> 00:04:18,104
+[SPEAKER_00]: So we will now discover how much performance they've lost in <u>a</u> competition against the clock on a rally special stage.
+
+960
+00:04:18,104 --> 00:04:18,184
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+961
+00:04:18,184 --> 00:04:18,725
+[SPEAKER_00]: So we will now discover how much performance they've lost in a <u>competition</u> against the clock on a rally special stage.
+
+962
+00:04:18,725 --> 00:04:18,785
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+963
+00:04:18,785 --> 00:04:19,125
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition <u>against</u> the clock on a rally special stage.
+
+964
+00:04:19,125 --> 00:04:19,185
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+965
+00:04:19,185 --> 00:04:19,285
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against <u>the</u> clock on a rally special stage.
+
+966
+00:04:19,285 --> 00:04:19,345
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+967
+00:04:19,345 --> 00:04:19,645
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the <u>clock</u> on a rally special stage.
+
+968
+00:04:19,645 --> 00:04:19,825
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+969
+00:04:19,825 --> 00:04:19,905
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock <u>on</u> a rally special stage.
+
+970
+00:04:19,905 --> 00:04:19,945
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+971
+00:04:19,945 --> 00:04:19,985
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on <u>a</u> rally special stage.
+
+972
+00:04:19,985 --> 00:04:20,165
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+973
+00:04:20,165 --> 00:04:20,565
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a <u>rally</u> special stage.
+
+974
+00:04:20,565 --> 00:04:20,685
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+975
+00:04:20,685 --> 00:04:21,165
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a rally <u>special</u> stage.
+
+976
+00:04:21,165 --> 00:04:21,285
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a rally special stage.
+
+977
+00:04:21,285 --> 00:04:21,806
+[SPEAKER_00]: So we will now discover how much performance they've lost in a competition against the clock on a rally special <u>stage.</u>
+
+978
+00:04:22,246 --> 00:04:22,446
+[SPEAKER_00]: <u>Mine</u> can't have lost any performance.
+
+979
+00:04:22,446 --> 00:04:22,486
+[SPEAKER_00]: Mine can't have lost any performance.
+
+980
+00:04:22,486 --> 00:04:22,706
+[SPEAKER_00]: Mine <u>can't</u> have lost any performance.
+
+981
+00:04:22,706 --> 00:04:22,746
+[SPEAKER_00]: Mine can't have lost any performance.
+
+982
+00:04:22,746 --> 00:04:22,866
+[SPEAKER_00]: Mine can't <u>have</u> lost any performance.
+
+983
+00:04:22,866 --> 00:04:22,906
+[SPEAKER_00]: Mine can't have lost any performance.
+
+984
+00:04:22,906 --> 00:04:23,146
+[SPEAKER_00]: Mine can't have <u>lost</u> any performance.
+
+985
+00:04:23,146 --> 00:04:23,246
+[SPEAKER_00]: Mine can't have lost any performance.
+
+986
+00:04:23,246 --> 00:04:23,386
+[SPEAKER_00]: Mine can't have lost <u>any</u> performance.
+
+987
+00:04:23,386 --> 00:04:23,426
+[SPEAKER_00]: Mine can't have lost any performance.
+
+988
+00:04:23,426 --> 00:04:23,866
+[SPEAKER_00]: Mine can't have lost any <u>performance.</u>
+
+989
+00:04:23,926 --> 00:04:23,986
+[SPEAKER_00]: <u>It</u> never added any.
+
+990
+00:04:23,986 --> 00:04:24,006
+[SPEAKER_00]: It never added any.
+
+991
+00:04:24,006 --> 00:04:24,186
+[SPEAKER_00]: It <u>never</u> added any.
+
+992
+00:04:24,186 --> 00:04:24,266
+[SPEAKER_00]: It never added any.
+
+993
+00:04:24,266 --> 00:04:24,466
+[SPEAKER_00]: It never <u>added</u> any.
+
+994
+00:04:24,466 --> 00:04:24,486
+[SPEAKER_00]: It never added any.
+
+995
+00:04:24,486 --> 00:04:25,307
+[SPEAKER_00]: It never added <u>any.</u>
+
+996
+00:04:25,467 --> 00:04:25,547
+[SPEAKER_00]: <u>And</u> I'm not going to ruin my Mercedes just for a few points.
+
+997
+00:04:25,547 --> 00:04:25,587
+[SPEAKER_00]: And I'm not going to ruin my Mercedes just for a few points.
+
+998
+00:04:25,587 --> 00:04:25,707
+[SPEAKER_00]: And <u>I'm</u> not going to ruin my Mercedes just for a few points.
+
+999
+00:04:25,707 --> 00:04:25,747
+[SPEAKER_00]: And I'm not going to ruin my Mercedes just for a few points.
+
+1000
+00:04:25,747 --> 00:04:25,807
+[SPEAKER_00]: And I'm <u>not</u> going to ruin my Mercedes just for a few points.
+
+1001
+00:04:25,807 --> 00:04:25,827
+[SPEAKER_00]: And I'm not going to ruin my Mercedes just for a few points.
+
+1002
+00:04:25,827 --> 00:04:25,927
+[SPEAKER_00]: And I'm not <u>going</u> to ruin my Mercedes just for a few points.
+
+1003
+00:04:25,927 --> 00:04:25,947
+[SPEAKER_00]: And I'm not going to ruin my Mercedes just for a few points.
+
+1004
+00:04:25,947 --> 00:04:26,007
+[SPEAKER_00]: And I'm not going <u>to</u> ruin my Mercedes just for a few points.
+
+1005
+00:04:26,007 --> 00:04:26,027
+[SPEAKER_00]: And I'm not going to ruin my Mercedes just for a few points.
+
+1006
+00:04:26,027 --> 00:04:26,207
+[SPEAKER_00]: And I'm not going to <u>ruin</u> my Mercedes just for a few points.
+
+1007
+00:04:26,207 --> 00:04:26,227
+[SPEAKER_00]: And I'm not going to ruin my Mercedes just for a few points.
+
+1008
+00:04:26,227 --> 00:04:26,347
+[SPEAKER_00]: And I'm not going to ruin <u>my</u> Mercedes just for a few points.
+
+1009
+00:04:26,347 --> 00:04:26,367
+[SPEAKER_00]: And I'm not going to ruin my Mercedes just for a few points.
+
+1010
+00:04:26,367 --> 00:04:26,747
+[SPEAKER_00]: And I'm not going to ruin my <u>Mercedes</u> just for a few points.
+
+1011
+00:04:26,747 --> 00:04:26,767
+[SPEAKER_00]: And I'm not going to ruin my Mercedes just for a few points.
+
+1012
+00:04:26,767 --> 00:04:26,907
+[SPEAKER_00]: And I'm not going to ruin my Mercedes <u>just</u> for a few points.
+
+1013
+00:04:26,907 --> 00:04:26,927
+[SPEAKER_00]: And I'm not going to ruin my Mercedes just for a few points.
+
+1014
+00:04:26,927 --> 00:04:27,007
+[SPEAKER_00]: And I'm not going to ruin my Mercedes just <u>for</u> a few points.
+
+1015
+00:04:27,007 --> 00:04:27,047
+[SPEAKER_00]: And I'm not going to ruin my Mercedes just for a few points.
+
+1016
+00:04:27,047 --> 00:04:27,067
+[SPEAKER_00]: And I'm not going to ruin my Mercedes just for <u>a</u> few points.
+
+1017
+00:04:27,067 --> 00:04:27,107
+[SPEAKER_00]: And I'm not going to ruin my Mercedes just for a few points.
+
+1018
+00:04:27,107 --> 00:04:27,287
+[SPEAKER_00]: And I'm not going to ruin my Mercedes just for a <u>few</u> points.
+
+1019
+00:04:27,287 --> 00:04:27,327
+[SPEAKER_00]: And I'm not going to ruin my Mercedes just for a few points.
+
+1020
+00:04:27,327 --> 00:04:27,667
+[SPEAKER_00]: And I'm not going to ruin my Mercedes just for a few <u>points.</u>
+
+1021
+00:04:28,808 --> 00:04:28,988
+[SPEAKER_00]: <u>You're</u> right, you're not, because you're not driving it.
+
+1022
+00:04:28,988 --> 00:04:29,028
+[SPEAKER_00]: You're right, you're not, because you're not driving it.
+
+1023
+00:04:29,028 --> 00:04:29,268
+[SPEAKER_00]: You're <u>right,</u> you're not, because you're not driving it.
+
+1024
+00:04:29,268 --> 00:04:29,428
+[SPEAKER_00]: You're right, you're not, because you're not driving it.
+
+1025
+00:04:29,428 --> 00:04:29,648
+[SPEAKER_00]: You're right, <u>you're</u> not, because you're not driving it.
+
+1026
+00:04:29,648 --> 00:04:29,708
+[SPEAKER_00]: You're right, you're not, because you're not driving it.
+
+1027
+00:04:29,708 --> 00:04:29,948
+[SPEAKER_00]: You're right, you're <u>not,</u> because you're not driving it.
+
+1028
+00:04:29,948 --> 00:04:30,168
+[SPEAKER_00]: You're right, you're not, because you're not driving it.
+
+1029
+00:04:30,168 --> 00:04:30,428
+[SPEAKER_00]: You're right, you're not, <u>because</u> you're not driving it.
+
+1030
+00:04:30,428 --> 00:04:30,488
+[SPEAKER_00]: You're right, you're not, because you're not driving it.
+
+1031
+00:04:30,488 --> 00:04:30,748
+[SPEAKER_00]: You're right, you're not, because <u>you're</u> not driving it.
+
+1032
+00:04:30,748 --> 00:04:30,788
+[SPEAKER_00]: You're right, you're not, because you're not driving it.
+
+1033
+00:04:30,788 --> 00:04:30,909
+[SPEAKER_00]: You're right, you're not, because you're <u>not</u> driving it.
+
+1034
+00:04:30,909 --> 00:04:30,949
+[SPEAKER_00]: You're right, you're not, because you're not driving it.
+
+1035
+00:04:30,949 --> 00:04:31,309
+[SPEAKER_00]: You're right, you're not, because you're not <u>driving</u> it.
+
+1036
+00:04:31,309 --> 00:04:31,369
+[SPEAKER_00]: You're right, you're not, because you're not driving it.
+
+1037
+00:04:31,369 --> 00:04:31,449
+[SPEAKER_00]: You're right, you're not, because you're not driving <u>it.</u>
+
+1038
+00:04:31,589 --> 00:04:31,709
+[SPEAKER_00]: <u>Well,</u> who is?
+
+1039
+00:04:31,709 --> 00:04:31,729
+[SPEAKER_00]: Well, who is?
+
+1040
+00:04:31,729 --> 00:04:31,869
+[SPEAKER_00]: Well, <u>who</u> is?
+
+1041
+00:04:31,869 --> 00:04:31,949
+[SPEAKER_00]: Well, who is?
+
+1042
+00:04:31,949 --> 00:04:32,029
+[SPEAKER_00]: Well, who <u>is?</u>
+
+1043
+00:04:33,231 --> 00:04:33,451
+[SPEAKER_00]: <u>Some</u> say he's seen the Lion King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1044
+00:04:33,451 --> 00:04:33,531
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1045
+00:04:33,531 --> 00:04:33,872
+[SPEAKER_00]: Some <u>say</u> he's seen the Lion King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1046
+00:04:33,872 --> 00:04:33,992
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1047
+00:04:33,992 --> 00:04:34,212
+[SPEAKER_00]: Some say <u>he's</u> seen the Lion King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1048
+00:04:34,212 --> 00:04:34,272
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1049
+00:04:34,272 --> 00:04:34,513
+[SPEAKER_00]: Some say he's <u>seen</u> the Lion King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1050
+00:04:34,513 --> 00:04:34,573
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1051
+00:04:34,573 --> 00:04:34,653
+[SPEAKER_00]: Some say he's seen <u>the</u> Lion King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1052
+00:04:34,653 --> 00:04:34,693
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1053
+00:04:34,693 --> 00:04:35,053
+[SPEAKER_00]: Some say he's seen the <u>Lion</u> King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1054
+00:04:35,053 --> 00:04:35,174
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1055
+00:04:35,174 --> 00:04:35,434
+[SPEAKER_00]: Some say he's seen the Lion <u>King</u> 1,780 times, and that his second best friend is a Cape buffalo.
+
+1056
+00:04:35,434 --> 00:04:38,097
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1057
+00:04:38,097 --> 00:04:38,558
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 <u>times,</u> and that his second best friend is a Cape buffalo.
+
+1058
+00:04:38,558 --> 00:04:39,098
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1059
+00:04:39,098 --> 00:04:39,198
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, <u>and</u> that his second best friend is a Cape buffalo.
+
+1060
+00:04:39,198 --> 00:04:39,218
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1061
+00:04:39,218 --> 00:04:39,339
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and <u>that</u> his second best friend is a Cape buffalo.
+
+1062
+00:04:39,339 --> 00:04:39,379
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1063
+00:04:39,379 --> 00:04:39,499
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that <u>his</u> second best friend is a Cape buffalo.
+
+1064
+00:04:39,499 --> 00:04:39,599
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1065
+00:04:39,599 --> 00:04:39,979
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his <u>second</u> best friend is a Cape buffalo.
+
+1066
+00:04:39,979 --> 00:04:40,060
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1067
+00:04:40,060 --> 00:04:40,300
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second <u>best</u> friend is a Cape buffalo.
+
+1068
+00:04:40,300 --> 00:04:40,360
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1069
+00:04:40,360 --> 00:04:40,680
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second best <u>friend</u> is a Cape buffalo.
+
+1070
+00:04:40,680 --> 00:04:41,241
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1071
+00:04:41,241 --> 00:04:41,341
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second best friend <u>is</u> a Cape buffalo.
+
+1072
+00:04:41,341 --> 00:04:41,381
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1073
+00:04:41,381 --> 00:04:41,421
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second best friend is <u>a</u> Cape buffalo.
+
+1074
+00:04:41,421 --> 00:04:41,521
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1075
+00:04:41,521 --> 00:04:41,822
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second best friend is a <u>Cape</u> buffalo.
+
+1076
+00:04:41,822 --> 00:04:41,982
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second best friend is a Cape buffalo.
+
+1077
+00:04:41,982 --> 00:04:42,523
+[SPEAKER_00]: Some say he's seen the Lion King 1,780 times, and that his second best friend is a Cape <u>buffalo.</u>
+
+1078
+00:04:43,444 --> 00:04:43,624
+[SPEAKER_00]: <u>All</u> we know is he's not the Stig, but he is the Stig's African cousin.
+
+1079
+00:04:43,624 --> 00:04:43,704
+[SPEAKER_00]: All we know is he's not the Stig, but he is the Stig's African cousin.
+
+1080
+00:04:43,704 --> 00:04:43,904
+[SPEAKER_00]: All <u>we</u> know is he's not the Stig, but he is the Stig's African cousin.
+
+1081
+00:04:43,904 --> 00:04:43,964
+[SPEAKER_00]: All we know is he's not the Stig, but he is the Stig's African cousin.
+
+1082
+00:04:43,964 --> 00:04:44,185
+[SPEAKER_00]: All we <u>know</u> is he's not the Stig, but he is the Stig's African cousin.
+
+1083
+00:04:44,185 --> 00:04:44,365
+[SPEAKER_00]: All we know is he's not the Stig, but he is the Stig's African cousin.
+
+1084
+00:04:44,365 --> 00:04:44,525
+[SPEAKER_00]: All we know <u>is</u> he's not the Stig, but he is the Stig's African cousin.
+
+1085
+00:04:44,525 --> 00:04:44,885
+[SPEAKER_00]: All we know is he's not the Stig, but he is the Stig's African cousin.
+
+1086
+00:04:44,885 --> 00:04:45,086
+[SPEAKER_00]: All we know is <u>he's</u> not the Stig, but he is the Stig's African cousin.
+
+1087
+00:04:45,086 --> 00:04:45,146
+[SPEAKER_00]: All we know is he's not the Stig, but he is the Stig's African cousin.
+
+1088
+00:04:45,146 --> 00:04:45,326
+[SPEAKER_00]: All we know is he's <u>not</u> the Stig, but he is the Stig's African cousin.
+
+1089
+00:04:45,326 --> 00:04:45,366
+[SPEAKER_00]: All we know is he's not the Stig, but he is the Stig's African cousin.
+
+1090
+00:04:45,366 --> 00:04:45,466
+[SPEAKER_00]: All we know is he's not <u>the</u> Stig, but he is the Stig's African cousin.
+
+1091
+00:04:45,466 --> 00:04:45,506
+[SPEAKER_00]: All we know is he's not the Stig, but he is the Stig's African cousin.
+
+1092
+00:04:45,506 --> 00:04:45,907
+[SPEAKER_00]: All we know is he's not the <u>Stig,</u> but he is the Stig's African cousin.
+
+1093
+00:04:45,907 --> 00:04:46,427
+[SPEAKER_00]: All we know is he's not the Stig, but he is the Stig's African cousin.
+
+1094
+00:04:46,427 --> 00:04:46,568
+[SPEAKER_00]: All we know is he's not the Stig, <u>but</u> he is the Stig's African cousin.
+
+1095
+00:04:46,568 --> 00:04:46,628
+[SPEAKER_00]: All we know is he's not the Stig, but he is the Stig's African cousin.
+
+1096
+00:04:46,628 --> 00:04:46,728
+[SPEAKER_00]: All we know is he's not the Stig, but <u>he</u> is the Stig's African cousin.
+
+1097
+00:04:46,728 --> 00:04:46,828
+[SPEAKER_00]: All we know is he's not the Stig, but he is the Stig's African cousin.
+
+1098
+00:04:46,828 --> 00:04:46,948
+[SPEAKER_00]: All we know is he's not the Stig, but he <u>is</u> the Stig's African cousin.
+
+1099
+00:04:46,948 --> 00:04:47,008
+[SPEAKER_00]: All we know is he's not the Stig, but he is the Stig's African cousin.
+
+1100
+00:04:47,008 --> 00:04:47,128
+[SPEAKER_00]: All we know is he's not the Stig, but he is <u>the</u> Stig's African cousin.
+
+1101
+00:04:47,128 --> 00:04:47,208
+[SPEAKER_00]: All we know is he's not the Stig, but he is the Stig's African cousin.
+
+1102
+00:04:47,208 --> 00:04:47,689
+[SPEAKER_00]: All we know is he's not the Stig, but he is the <u>Stig's</u> African cousin.
+
+1103
+00:04:47,689 --> 00:04:48,049
+[SPEAKER_00]: All we know is he's not the Stig, but he is the Stig's African cousin.
+
+1104
+00:04:48,049 --> 00:04:48,490
+[SPEAKER_00]: All we know is he's not the Stig, but he is the Stig's <u>African</u> cousin.
+
+1105
+00:04:48,490 --> 00:04:48,590
+[SPEAKER_00]: All we know is he's not the Stig, but he is the Stig's African cousin.
+
+1106
+00:04:48,590 --> 00:04:49,011
+[SPEAKER_00]: All we know is he's not the Stig, but he is the Stig's African <u>cousin.</u>
+
