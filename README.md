@@ -58,7 +58,7 @@ Instead, the project will be approached by doing analysis, and then making infer
 ![2024 Topics](images/LDA_vis_2024.png)
 [One for the Road](outputs\vis_ALL_2024.html)
 
-Conclusion / Insight:
+## Conclusion / Insight:
 
 ... uhhh dunno. A lot of work, and not sure what this tells me lol. 
 I suppose I'll that to the ToDo list! 
