@@ -54,7 +54,7 @@ Instead, the project will be approached by doing analysis, and then making infer
 
 2024 One for the Road Episode: 
 ![2024 Topics](images/LDA_vis_2024.png)
-[One for the Road](outputs\vis_ALL_2024.html)
+[One for the Road](.\outputs\vis_ALL_2024.html)
 
 ## Conclusion / Insight:
 
