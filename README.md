@@ -55,7 +55,7 @@ Instead, the project will be approached by doing analysis, and then making infer
 
 ## Next - ToDO!
 
-- [ ] Diarize 2024 episode
+- [x] Diarize 2024 episode (in progress)
 - [ ] Create UMAP visuals
 - [ ] Perform Dynamic Topic Model analysis 
 
