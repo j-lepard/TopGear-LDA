@@ -25,7 +25,7 @@ The initial intention is to evaluate *each* presenter with:
  
 ## Overall Approach
 
-I was always taught "start with the Question". This project will be slightly different as I do not have a specific hypothesis to test. Such as "are the topics are more/less sentimental in the 2024 episode". This seems pretty pointless as I think the concolusion would be obvious.
+I was always taught "start with the Question". This project will be slightly different as I do not have a specific hypothesis to test. Such as "are the topics are more/less sentimental in the 2024 episode". This seems pretty pointless as I think the conclusion would be obvious.
 
 Instead, the project will be approached by doing analysis, and then making inferences of the results.
 
@@ -45,14 +45,18 @@ Instead, the project will be approached by doing analysis, and then making infer
 8. Topic Model using LDA (Latent Direlict Allocation)
    1. Coherence evaluation
    2. Optimization
-9.  Visualize with UMAP (Uniform...)
+9. Dynamic Topic Model
+10. Visualize with UMAP 
 
-## Considerations
+## Results (work in progress)
 
-![alt text](image.png)
-[GITHUB](https://github.com/m-bain/whisperX)
+![LDA vis](images/LDAvis_example.png)
+[link to page](outputs\combined_vis.html)
+
 
 ## Setup ⚙️
+[GITHUB](https://github.com/m-bain/whisperX)
+
 Tested for PyTorch 2.0, Python 3.10 (use other versions at your own risk!)
 GPU execution requires the NVIDIA libraries cuBLAS 11.x and cuDNN 8.x to be installed on the system. Please refer to the CTranslate2 documentation.
 
