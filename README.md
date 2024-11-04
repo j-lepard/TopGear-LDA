@@ -1,5 +1,3 @@
-# TopGear
-
 # Top Gear Africa -Topic Modelling & Visualization
 
 ## Context
