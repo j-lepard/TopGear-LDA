@@ -50,14 +50,26 @@ Instead, the project will be approached by doing analysis, and then making infer
 
 ## Results (work in progress)
 
-![LDA vis](images/LDAvis_example.png)
-[link to page](outputs\combined_vis.html)
+2007 Botswana Episode:
+![2007 Topics](images/LDAvis_example.png)
+[Botswana Special](outputs\combined_vis.html)
+
+2024 One for the Road Episode: 
+![2024 Topics](images/LDA_vis_2024.png)
+[One for the Road](outputs\vis_ALL_2024.html)
+
+Conclusion / Insight:
+
+... uhhh dunno. A lot of work, and not sure what this tells me lol. 
+I suppose I'll that to the ToDo list! 
 
 ## Next - ToDO!
 
-- [x] Diarize 2024 episode (in progress)
+- [x] Diarize 2024 episode
+- [X] Complete pyLDAvis for episodes 
 - [ ] Create UMAP visuals
-- [ ] Perform Dynamic Topic Model analysis 
+- [ ] Perform Dynamic Topic Model analysis
+- [ ] Interpret LDA and draw insight
 
 ## Setup ⚙️
 [GITHUB](https://github.com/m-bain/whisperX)
