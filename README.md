@@ -65,9 +65,16 @@ I suppose I'll that to the ToDo list!
 
 - [x] Diarize 2024 episode
 - [X] Complete pyLDAvis for episodes 
+- [x] Redo 2007 analysis without splitting the transcript by presenter.
 - [ ] Create UMAP visuals
 - [ ] Perform Dynamic Topic Model analysis
 - [ ] Interpret LDA and draw insight
+
+
+## Observations: 
+
+* The diarize model did not perform very well on the second (2024) episode. The labels applied to the three speakers was only about 60% accurate.
+* Redid the initial 2007 analysis with a single data frame. 
 
 ## Setup ⚙️
 [GITHUB](https://github.com/m-bain/whisperX)
